@@ -1,10 +1,10 @@
-schema: hugoblox/author/v1
-slug: me
+---
 is_owner: true
 name:
   display: José Denis-Robichaud
   given: José
   family: Denis-Robichaud
+  pronouns: she/her
 postnominals:
   - DVM
   - MSc
@@ -51,7 +51,7 @@ interests:
   - Technologies
 
 education:
-  - degree: PhD Population Medicine
+  - degree: PhD Population medicine
     institution: University of Guelph
     start: 2013-09-01
     end: 2017-02-28
@@ -61,7 +61,7 @@ education:
       text: Thesis
       url: http://hdl.handle.net/10214/10123
       icon: hero/arrow-down-tray
-  - degree: M.Sc. Veterinary Sciences 
+  - degree: M.Sc. Veterinary sciences - epidemiology
     institution: Université de Montréal
     start: 2011-09-01
     end: 2013-08-31
@@ -104,3 +104,5 @@ experience:
    # date: "2022-12-01"
     #summary: Awarded for groundbreaking work on efficient training of large models.
     #icon: hero/trophy
+---
+

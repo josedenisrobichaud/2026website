@@ -1,7 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
 type: landing
 
 design:
@@ -16,21 +15,28 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: In a nutshell (pdf)
         url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'Welcome to my website!'
+        education: 'Academic background'
+        interests: 'Research areas'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
         gradient_mesh:
-          enable: true
+          enable: false
 
       # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
+        size: sm # Options: xs, sm, md, lg (default), xl
 
       # Avatar customization
       avatar:
@@ -38,14 +44,10 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        My goal is to explore the intersection of technological, societal, environmental and climatic issues surrounding dairy production in order to support its sustainability and resilience. Building on epidemiological foundations, I am developing knowledge and tools related to technological innovations, management practices, and interdisciplinary collaborations to optimize the health of animals, producers, consumers and the environment.
     design:
       columns: '1'
   - block: collection
