@@ -1,0 +1,4 @@
+/* This is an example selector, may vary by theme */
+.navbar-brand, .site-title {
+    display: none !important;
+}

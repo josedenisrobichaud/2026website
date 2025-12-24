@@ -5,24 +5,27 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '2rem'
 
 sections:
-  - block: resume-biography-3
+  - block: hero
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: In a nutshell (pdf)
-        url: uploads/resume.pdf
-      headings:
-        about: 'Welcome to my website!'
-        education: 'Academic background'
-        interests: 'Research areas'
+      title: 'Research program'
+      text: |
+        Our goal is to explore the intersection of technological, societal, environmental and climatic issues surrounding dairy production in order to support its sustainability and resilience. Building on epidemiological foundations, we are developing knowledge and tools related to technological innovations, management practices, and interdisciplinary collaborations to optimize the health of animals, producers, consumers and the environment.
+      primary_action: 
+        text: Meet the team
+        url: /#team
+        icon: sparkles
+      secondary_action:
+        text: Discover our projects
+        url: projects/
+      announcement:
+        text: We are at the Rimouski campus of the Université de Montréal. 
+        link:
+          text: Read more
+          url: /#news
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         image:
           # Add your image background to `assets/media/`.
@@ -31,25 +34,109 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-        gradient_mesh:
-          enable: false
-
-      # Name heading sizing to accommodate long or short names
-      name:
-        size: sm # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
-      avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
-  - block: markdown
+      spacing:
+      # Top, Right, Bottom, Left
+        padding: ["10px", "0", "10px", "0"]
+  - block: research-areas
     content:
-      title: 'Research'
-      subtitle: ''
-      text: |-
-        My goal is to explore the intersection of technological, societal, environmental and climatic issues surrounding dairy production in order to support its sustainability and resilience. Building on epidemiological foundations, I am developing knowledge and tools related to technological innovations, management practices, and interdisciplinary collaborations to optimize the health of animals, producers, consumers and the environment.
+      title: 'Research Areas'
+      items:
+        - name: Dairy cow health
+          description: Investigating reproductive performance, disorders, diagnostic methods, and therapeutic interventions in dairy cows
+          image: projects/cow.jpg
+          status: active
+          topics:
+            - Reproduction
+            - Diagnostic
+            - Treatment
+            - Metabolic diseases
+          #team_size: 3
+          #publications: 45 
+          #funding: $2.5M
+          #cta:
+           # text: Learn More
+            #url: /research/computational-biology
+
+        - name: Technologies
+          description: Investigating technology adoption effects on dairy operations and developing AI-based management solutions
+          image: projects/techno.jpg
+          status: emerging
+          topics:
+            - Development
+            - Impact
+            - Utilization 
+            - Machine learning
+          #team_size: 8 researchers
+          #publications: 32 papers
+          #funding: $1.8M
+
+        - name: One Health
+          description: Advancing One Health in dairy systems through improved diagnostics, antimicrobial stewardship, and farmer wellbeing
+          image: projects/one-health.jpg
+          status: planning
+          topics:
+            - Monitoring
+            - Quality of life
+            - Collaboration
+          #team_size: 6 researchers
+          #publications: 28 papers
+          #funding: $1.2M
     design:
-      columns: '1'
+      layout: cards 
+      background:
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+      design:
+        spacing:
+        # Top, Right, Bottom, Left
+          padding: ["0px", "0", "0px", "0"]
+  - block: contact-info
+    id: contact
+    content: 
+      title: Contact us
+      visit_tile: 'Where we are'
+      connect_tile: 'Connect with us'
+      map_url: https://www.google.com/maps/place/University+of+Quebec+at+Rimouski/@48.4525478,-68.5121012,17z/data=!3m1!4b1!4m6!3m5!1s0x4c95d9bf34e2acab:0x9a4c836523397f8e!8m2!3d48.4525478!4d-68.5121012!16zL20vMDN6cjho?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D
+      address:
+        lines:
+          - José Denis-Robichaud
+          - Département de biomédecine vétérinaire
+          - Université de Montréal
+          - 300, allée des Ursulines
+          - Rimouski (QC) G5L 3A1
+          - Canada
+      email: jose.denis-robichaud@umontreal.ca
+      show_from: true
+      social:
+        - icon: brands/linkedin
+          url: https://www.linkedin.com/in/jose-denis-robichaud
+        - icon: academicons/google-scholar
+          url: https://scholar.google.com/citations?user=I-jVqu8AAAAJ&hl=en
+        - icon: academicons/orcid
+          url: https://orcid.org/0000-0002-7742-0631
+        - icon: brands/instagram
+          url: https://www.instagram.com/nomadinthewind
+        - icon: brands/github
+          url: https://github.com/josedenisrobichaud
+        - icon: academicons/dataverse
+          url: https://dataverse.harvard.edu/dataverse/josedr
+      prospective:
+        title: Prospective students
+        text: Interested in joining our lab? We're looking for curious and motivated students.
+        button:
+          text: View opportunities
+          url: /opportunities
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      spacing:
+      # Top, Right, Bottom, Left
+        padding: ["10px", "0", "10px", "0"]
   - block: collection
     id: papers
     content:

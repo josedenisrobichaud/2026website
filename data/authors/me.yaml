@@ -14,8 +14,7 @@ status:
   icon: 
 role: Assistant professor
 bio: |
-  As a specialist in veterinary preventive medicine with expertise in epidemiology and biostatistics, I focus on applying the One Health approach across various contexts — from animal population health to public health. I’m currently a professor in veterinary livestock management at the Faculté de médecine vétérinaire, Université de Montréal (Rimouski campus), where I have the pleasure of teaching passionate students and leading exciting research projects. 
-  Are you interested in collaborating? Get in touch!
+  As a specialist in veterinary preventive medicine with expertise in epidemiology and biostatistics, I focus on applying the One Health approach across various contexts — from animal population health to public health. I’m currently a professor in veterinary livestock management at the Faculté de médecine vétérinaire, Université de Montréal (Rimouski campus), where I have the pleasure of teaching passionate students and leading exciting research projects. You can find more details about me [here](/jo).
 
 affiliations:
   - name: Université de Montréal
@@ -104,3 +103,6 @@ experience:
    # date: "2022-12-01"
     #summary: Awarded for groundbreaking work on efficient training of large models.
     #icon: hero/trophy
+
+user_groups:
+  - Principal investigator

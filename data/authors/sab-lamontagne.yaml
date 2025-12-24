@@ -1,0 +1,24 @@
+schema: hugoblox/author/v1
+slug: sab-lamontagne
+is_owner: false
+name:
+  display: Sabrina Lamontagne
+  given: Sabrina
+  family: Lamontagne
+postnominals:
+  - TSA
+status:
+  icon: 
+role: Animal health technician
+affiliations:
+  - name: Université de Montréal
+    url: https://fmv.umontreal.ca/fmv/
+  - name: Clinique vétérinaire de l'Estuaire
+    url: https://www.cvestuairemontjoli.com/fr-ca
+
+links:
+  - icon: at-symbol
+    url: mailto:sabrina.lamontagne.1@umontreal.ca
+
+user_groups:
+  - Staff
