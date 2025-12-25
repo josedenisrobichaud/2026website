@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: J dubuc
+is_owner: false
+name:
+  display: Jocelyn Dubuc
+  given: Jocelyn
+  family: Dubuc
+
+user_groups:
+  - Collaborator

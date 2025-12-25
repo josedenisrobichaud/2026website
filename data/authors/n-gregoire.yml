@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: N barbeau gregoire
+is_owner: false
+name:
+  display: Nicolas Barbeau Grégoire
+  given: Nicolas
+  family: Barbeau Grégoire
+
+user_groups:
+  - Collaborator
