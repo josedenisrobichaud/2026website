@@ -8,6 +8,14 @@ design:
   spacing: '2rem'
 
 sections:
+  - block: markdown
+    content:
+      title: 'Welcome to the DR² research group'
+    design:
+      justify: center
+      spacing:
+      # Top, Right, Bottom, Left
+        padding: ["20px", "0", "0px", "0"]
   - block: hero
     content:
       title: 'Research program'
@@ -36,7 +44,7 @@ sections:
           position: center
       spacing:
       # Top, Right, Bottom, Left
-        padding: ["10px", "0", "10px", "0"]
+        padding: ["0px", "0", "10px", "0"]
   - block: research-areas
     content:
       title: 'Research Areas'
