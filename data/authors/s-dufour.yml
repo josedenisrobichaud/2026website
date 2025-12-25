@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: S dufour
+is_owner: false
+name:
+  display: Simon Dufour
+  given: Simon
+  family: Dufour
+
+user_groups:
+  - Collaborator

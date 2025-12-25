@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: J p roy
+is_owner: false
+name:
+  display: Jean-Philippe Roy
+  given: Jean-Philippe
+  family: Roy
+
+user_groups:
+  - Collaborator
