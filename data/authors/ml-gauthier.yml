@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: M l gauthier
+is_owner: false
+name:
+  display: Marie-Lou Gauthier
+  given: Marie-Lou
+  family: Gauthier
+
+user_groups:
+  - Collaborator
