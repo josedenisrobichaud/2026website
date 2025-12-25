@@ -1,15 +1,15 @@
 {{/* Display author list. */}}
 {{ if .Params.authors }}
   {{ range $index, $author := .Params.authors }}
+    {{- if gt $index 0 }}, {{ end -}}
     {{- $slug := $author | urlize -}}
     {{- $profile := partial "functions/get_author_profile" (dict "slug" $slug) -}}
     {{- $display := $profile.title | default $author -}}
     {{- $highlight_name := false -}}
-    {{- if gt $index 0 }}, {{ end -}}
+    {{- $authorPage := site.GetPage (printf "/authors/%s" $slug) -}}
     <span {{ if $highlight_name }}class="font-bold"{{end}}>
-      {{- $term := site.GetPage (printf "/authors/%s" $slug) -}}
-      {{- if $term -}}
-        <a href="{{ $term.RelPermalink }}">{{ $display }}</a>
+      {{- if $authorPage -}}
+        <a href="{{ $authorPage.RelPermalink }}">{{ $display }}</a>
       {{- else -}}
         {{ $display }}
       {{- end -}}

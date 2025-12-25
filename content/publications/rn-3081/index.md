@@ -1,0 +1,32 @@
+---
+title: Assessment of the evolution of the proportion of respiratory and enteric pathogens
+  and diseases in pre-weaned unvaccinated dairy heifers from Québec, Canada
+authors:
+- ' me'
+- M-ÈT Cléroux
+- S Buczinski
+- M-L Gauthier
+- J Dubuc
+- D Francoz
+date: '2021-01-01'
+publishDate: '2025-12-25T15:13:39.022359Z'
+publication_types:
+- article-journal
+publication: '*The Bovine Practitioner*'
+doi: 10.21423/bovine-vol55no2p140-152
+abstract: The objective of this study was to describe the proportion of enteric and
+  respiratory pathogens and diseases in unvaccinated pre-weaned dairy heifers, in
+  their first 2 weeks of life (exam 1), and at 4- to 8-weeks old (exam 2). Heifers
+  from 20 dairy herds were examined and sampled twice for respiratory and enteric
+  pathogens and diseases. Respiratory health score and ultrasonographic lung consolidation
+  were assessed, and nasopharyngeal swabs, blood samples, and feces samples were collected.
+  The prevalence for each disease and pathogen was described, and the difference between
+  exams 1 and 2 was assessed. A total of 198 heifers were included at exam 1, and
+  182 of them were examined again at exam 2. At exam 1, the prevalence of respiratory
+  diseases (positive clinical score or presence of lung consolidation) and diarrhea
+  was 18% and 23%, respectively. At exam 2, the prevalence of respiratory diseases
+  and diarrhea was 62% and 13%, respectively. Heifers were less likely to have respiratory
+  diseases and pathogens at exam 1 than exam 2, and were more likely to have diarrhea
+  at exam 1 than exam 2. These results help in understanding the dynamic of respiratory
+  and enteric pathogens and diseases.
+---
