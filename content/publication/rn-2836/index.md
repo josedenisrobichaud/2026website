@@ -1,0 +1,51 @@
+---
+title: 'Linking Opinions Shared on Social Media About COVID-19 Public Health Measures
+  to Adherence: Repeated Cross-Sectional Surveys of Twitter Use in Canada'
+authors:
+- ' me'
+- EE Rees
+- P Daley
+- C Zarowsky
+- A Diouf
+- BR Nasri
+- SD Montigny
+- H Carabin
+date: '2024-01-01'
+publishDate: '2025-12-26T01:35:52.650198Z'
+publication_types:
+- article-journal
+publication: '*Journal of Medical Internet Research*'
+doi: 10.2196/51325
+abstract: 'Background: The effectiveness of public health measures (PHMs) depends
+  on population adherence. Social media were suggested as a tool to assess adherence,
+  but representativeness and accuracy issues have been raised. Objective: The objectives
+  of this repeated cross-sectional study were to compare self-reported PHM adherence
+  and sociodemographic characteristics between people who used Twitter (subsequently
+  rebranded X) and people who did not use Twitter. Methods: Repeated Canada-wide web-based
+  surveys were conducted every 14 days from September 2020 to March 2022. Weighted
+  proportions were calculated for descriptive variables. Using Bayesian logistic regression
+  models, we investigated associations between Twitter use, as well as opinions in
+  tweets, and self-reported adherence with mask wearing and vaccination. Results:
+  Data from 40,230 respondents were analyzed. As self-reported, Twitter was used by
+  20.6% (95% CI 20.1%-21.2%) of Canadians, of whom 29.9% (95% CI 28.6%-31.3%) tweeted
+  about COVID-19. The sociodemographic characteristics differed across categories
+  of Twitter use and opinions. Overall, 11% (95% CI 10.6%-11.3%) of Canadians reported
+  poor adherence to mask-wearing, and 10.8% (95% CI 10.4%-11.2%) to vaccination. Twitter
+  users who tweeted about COVID-19 reported poorer adherence to mask wearing than
+  nonusers, which was modified by the age of the respondents and their geographical
+  region (odds ratio [OR] 0.79, 95% Bayesian credibility interval [BCI] 0.18-1.69
+  to OR 4.83, 95% BCI 3.13-6.86). The odds of poor adherence to vaccination of Twitter
+  users who tweeted about COVID-19 were greater than those of nonusers (OR 1.76, 95%
+  BCI 1.48-2.07). English- and French-speaking Twitter users who tweeted critically
+  of PHMs were more likely (OR 4.07, 95% BCI 3.38-4.80 and OR 7.31, 95% BCI 4.26-11.03,
+  respectively) to report poor adherence to mask wearing than non–Twitter users, and
+  those who tweeted in support were less likely (OR 0.47, 95% BCI 0.31-0.64 and OR
+  0.96, 95% BCI 0.18-2.33, respectively) to report poor adherence to mask wearing
+  than non–Twitter users. The OR of poor adherence to vaccination for those tweeting
+  critically about PHMs and for those tweeting in support of PHMs were 4.10 (95% BCI
+  3.40-4.85) and 0.20 (95% BCI 0.10-0.32), respectively, compared to non–Twitter users.
+  Conclusions: Opinions shared on Twitter can be useful to public health authorities,
+  as they are associated with adherence to PHMs. However, the sociodemographics of
+  social media users do not represent the general population, calling for caution
+  when using tweets to assess general population-level behaviors.'
+---
