@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: A aris
+is_owner: false
+name:
+  display: Anna Arís
+  given: Anna       
+  family: Arís 
+
+user_groups:
+  - Collaborator

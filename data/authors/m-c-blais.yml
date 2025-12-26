@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: M c blais
+is_owner: false
+name:
+  display: Marie-Claude Blais
+  given: Marie-Claude
+  family: Blais
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: L richard
+is_owner: false
+name:
+  display: Lucie Richard
+  given: Lucie
+  family: Richard
+
+
+user_groups:
+  - Collaborator

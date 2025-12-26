@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: Am lamothe
+is_owner: false
+name:
+  display: Anne-Marie Lamothe
+  given: Anne-Marie
+  family: Lamothe
+
+
+user_groups:
+  - Collaborator

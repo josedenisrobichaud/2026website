@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Wa gomez
+is_owner: false
+name:
+  display: Wilton Gomez
+  given: Wilton
+  family: Gomez
+
+user_groups:
+  - Collaborator

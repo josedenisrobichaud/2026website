@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: H le thi
+is_owner: false
+name:
+  display: Hang Le-Thi
+  given: Hang      
+  family: Le-Thi
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Ta burnett
+is_owner: false
+name:
+  display: Tracy Burnett
+  given: Tracy
+  family: Burnett
+
+user_groups:
+  - Collaborator

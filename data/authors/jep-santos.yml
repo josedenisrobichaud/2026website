@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: Jep santos
+is_owner: false
+name:
+  display: Jose Santos
+  given: Jose
+  family: Santos
+
+
+user_groups:
+  - Collaborator

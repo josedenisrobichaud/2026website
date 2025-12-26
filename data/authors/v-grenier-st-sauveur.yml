@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: V grenier st sauveur
+is_owner: false
+name:
+  display: Valérie Grenier St-Sauveur
+  given: Valérie
+  family: Grenier St-Sauveur
+
+user_groups:
+  - Collaborator

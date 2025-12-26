@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: S hindmarch
+is_owner: false
+name:
+  display: Suzanne Hindmarch
+  given: Suzanne
+  family: Hindmarch
+
+user_groups:
+  - Collaborator

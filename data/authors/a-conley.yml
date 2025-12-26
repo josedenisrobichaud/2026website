@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: A conley
+is_owner: false
+name:
+  display: Alan Conley
+  given: Alan
+  family: Conley
+
+user_groups:
+  - Collaborator

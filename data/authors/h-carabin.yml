@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: H carabin
+is_owner: false
+name:
+  display: Hélène Carabin
+  given: Hélène
+  family: Carabin
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: C nury
+is_owner: false
+name:
+  display: Charlotte Nury
+  given: Charlotte
+  family: Nury
+
+user_groups:
+  - Collaborator

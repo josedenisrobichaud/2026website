@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Mhc pereira
+is_owner: false
+name:
+  display: Marcos Pereira
+  given: Marcos
+  family: Pereira
+
+user_groups:
+  - Collaborator

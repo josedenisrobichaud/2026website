@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: M et cleroux
+is_owner: false
+name:
+  display: Marie-Ève Tremblay Cléroux
+  given: Marie-Ève        
+  family: Tremblay Cléroux
+
+user_groups:
+  - Collaborator

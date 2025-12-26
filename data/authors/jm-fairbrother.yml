@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Jm fairbrother
+is_owner: false
+name:
+  display: John Fairbrother
+  given: John  
+  family: Fairbrother 
+
+user_groups:
+  - Collaborator

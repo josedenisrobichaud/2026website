@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Jcs marques
+is_owner: false
+name:
+  display: Jessica Dos Santos Marques
+  given: Jessica
+  family: Marques
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Jpo maciel
+is_owner: false
+name:
+  display: Joyce Maciel
+  given: Joyce
+  family: Maciel
+
+user_groups:
+  - Collaborator

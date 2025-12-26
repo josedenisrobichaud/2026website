@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Br nasri
+is_owner: false
+name:
+  display: Bouchra Nasri
+  given: Bouchra
+  family: Nasri
+
+user_groups:
+  - Collaborator

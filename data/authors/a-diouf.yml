@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: A diouf
+is_owner: false
+name:
+  display: Assane Diouf
+  given: Assane
+  family: Diouf
+
+user_groups:
+  - Collaborator

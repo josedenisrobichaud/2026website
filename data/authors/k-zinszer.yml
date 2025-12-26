@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: K zinszer
+is_owner: false
+name:
+  display: Kate Zinszer
+  given: Kate
+  family: Zinzer
+
+
+user_groups:
+  - Collaborator

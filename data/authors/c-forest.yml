@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: C forest
+is_owner: false
+name:
+  display: Caroline Forest
+  given: Caroline
+  family: Forest
+
+user_groups:
+  - Collaborator

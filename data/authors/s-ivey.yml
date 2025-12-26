@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: S ivey
+is_owner: false
+name:
+  display: Susan Ivey
+  given: Susan     
+  family: Ivey
+
+user_groups:
+  - Collaborator

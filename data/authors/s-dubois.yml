@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: S dubois
+is_owner: false
+name:
+  display: Sara Dubois
+  given: Sara
+  family: Dubois
+
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: S buckzinski
+is_owner: false
+name:
+  display: Sébastien Buczinski
+  given: Sébastien
+  family: Buczinski
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: C aenishaenslin 
+is_owner: false
+name:
+  display: Cécile Aenishaenslin
+  given: Cécile
+  family: Aenishaenslin
+
+
+user_groups:
+  - Collaborator

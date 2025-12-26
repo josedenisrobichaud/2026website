@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: M christophe
+is_owner: false
+name:
+  display: Maxime Christophe
+  given: Maxime 
+  family: Christophe
+
+user_groups:
+  - Collaborator

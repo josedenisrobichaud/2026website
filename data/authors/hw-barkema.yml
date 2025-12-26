@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Hw barkema
+is_owner: false
+name:
+  display: Herman Barkema
+  given: Herman     
+  family: Barkema
+
+user_groups:
+  - Collaborator

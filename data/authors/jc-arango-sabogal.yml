@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Jc arango sabogal
+is_owner: false
+name:
+  display: Juan Carlos Arango-Sabogal
+  given: Juan Carlos
+  family: Arango-Sabogal
+
+user_groups:
+  - Collaborator

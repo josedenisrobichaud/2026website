@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: A bach
+is_owner: false
+name:
+  display: Àlex Bach
+  given: Àlex     
+  family: Bach 
+
+user_groups:
+  - Collaborator

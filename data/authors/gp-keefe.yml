@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Gp keefe
+is_owner: false
+name:
+  display: Gregory Keefe
+  given: Gregory     
+  family: Keefe
+
+user_groups:
+  - Collaborator

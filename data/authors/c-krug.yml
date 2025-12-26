@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: C krug
+is_owner: false
+name:
+  display: Catarina Krug
+  given: Catarina    
+  family: Krug 
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: R cue
+is_owner: false
+name:
+  display: Roger Cue
+  given: Roger
+  family: Cue
+
+
+user_groups:
+  - Collaborator

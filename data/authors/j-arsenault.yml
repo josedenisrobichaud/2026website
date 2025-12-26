@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: J arsenault
+is_owner: false
+name:
+  display: Julie Arsenault
+  given: Julie 
+  family: Arsenault
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: S mediouni
+is_owner: false
+name:
+  display: Sarah Mediouni
+  given: Sarah
+  family: Mediouni
+
+
+user_groups:
+  - Collaborator

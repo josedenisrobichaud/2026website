@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: M villettaz robichaud
+is_owner: false
+name:
+  display: Marianne Villettaz-Robichaud
+  given: Marianne
+  family: Villettaz-Robichaud
+
+
+user_groups:
+  - Collaborator

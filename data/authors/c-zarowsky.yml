@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: C zarowsky
+is_owner: false
+name:
+  display: Christina Zarowsky
+  given: Christina
+  family: Zarowsky
+
+user_groups:
+  - Collaborator

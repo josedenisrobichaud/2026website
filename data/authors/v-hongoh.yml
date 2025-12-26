@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: V hongoh
+is_owner: false
+name:
+  display: Valérie Hongoh
+  given: Valérie
+  family: Hongoh
+
+
+user_groups:
+  - Collaborator

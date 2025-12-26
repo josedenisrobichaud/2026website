@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: T Piau
+is_owner: false
+name:
+  display: Tathyana Piau
+  given: Tathyana
+  family: Piau
+
+user_groups:
+  - Collaborator

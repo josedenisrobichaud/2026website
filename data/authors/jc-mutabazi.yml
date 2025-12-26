@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Jc mutabazi
+is_owner: false
+name:
+  display: Jean-Claude Mutabazi
+  given: Jean-Claude
+  family: Mutabazi
+
+user_groups:
+  - Collaborator

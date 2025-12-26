@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Cc bartolomeu
+is_owner: false
+name:
+  display: Claudio Bartolomeu
+  given: Claudio
+  family: Bartolomeu
+
+user_groups:
+  - Collaborator

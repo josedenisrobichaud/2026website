@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Ra almeida
+is_owner: false
+name:
+  display: Raul Almeida
+  given: Raul     
+  family: Almeida
+
+user_groups:
+  - Collaborator

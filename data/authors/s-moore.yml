@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: S moore
+is_owner: false
+name:
+  display: Sydney Moore
+  given: Sydney
+  family: Moore
+
+user_groups:
+  - Collaborator

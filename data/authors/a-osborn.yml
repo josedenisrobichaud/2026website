@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: A osborn
+is_owner: false
+name:
+  display: Andrea Osborn
+  given: Andrea
+  family: Osborn
+
+user_groups:
+  - Collaborator

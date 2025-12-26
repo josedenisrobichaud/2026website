@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Nn nswal
+is_owner: false
+name:
+  display: Nancy Nswal
+  given: Nancy
+  family: Nswal
+
+user_groups:
+  - Collaborator

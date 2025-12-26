@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Bf silper
+is_owner: false
+name:
+  display: Bruna Silper
+  given: Bruna
+  family: Silper
+
+user_groups:
+  - Collaborator

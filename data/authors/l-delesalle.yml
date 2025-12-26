@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: L delesalle
+is_owner: false
+name:
+  display: Léa Delesalle
+  given: Léa
+  family: Delesalle
+
+
+user_groups:
+  - Collaborator

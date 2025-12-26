@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Aml madureira
+is_owner: false
+name:
+  display: Augusto Madureira
+  given: Augusto
+  family: Madureira
+
+user_groups:
+  - Collaborator

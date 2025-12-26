@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: S dang xuan
+is_owner: false
+name:
+  display: Sinh Dang-Xuan
+  given: Sinh     
+  family: Dang-Xuan
+
+user_groups:
+  - Collaborator

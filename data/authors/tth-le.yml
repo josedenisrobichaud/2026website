@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Tth le
+is_owner: false
+name:
+  display: Trang Le
+  given: Trang       
+  family: Le
+
+user_groups:
+  - Collaborator

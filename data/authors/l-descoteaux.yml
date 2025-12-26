@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: L descoteaux
+is_owner: false
+name:
+  display: Luc DesCôteaux
+  given: Luc
+  family: DesCôteaux
+
+
+user_groups:
+  - Collaborator

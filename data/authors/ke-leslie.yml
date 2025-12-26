@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Ke leslie
+is_owner: false
+name:
+  display: Ken Leslie
+  given: Ken 
+  family: Leslie
+
+user_groups:
+  - Collaborator

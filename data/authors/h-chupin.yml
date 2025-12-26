@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: H chupin
+is_owner: false
+name:
+  display: Hervé Chupin
+  given: Hervé
+  family: Chupin
+
+user_groups:
+  - Collaborator

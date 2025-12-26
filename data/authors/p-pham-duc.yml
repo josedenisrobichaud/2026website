@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: P pham duc
+is_owner: false
+name:
+  display: Phuc Pham-Duc
+  given: Phuc    
+  family: Pham-Duc
+
+user_groups:
+  - Collaborator

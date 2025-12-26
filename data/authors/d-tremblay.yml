@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: D tremblay
+is_owner: false
+name:
+  display: Donald Tremblay
+  given: Donald 
+  family: Tremblay
+
+user_groups:
+  - Collaborator

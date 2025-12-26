@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: N picard hagen
+is_owner: false
+name:
+  display: Nicole Picard-Hagen
+  given: Nicole
+  family: Picard-Hagen
+
+user_groups:
+  - Collaborator

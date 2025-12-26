@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: S genis
+is_owner: false
+name:
+  display: Sandra Genís
+  given: Sandra     
+  family: Genís 
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: N millar
+is_owner: false
+name:
+  display: Nikky Millar
+  given: Nikky
+  family: Millar
+
+
+user_groups:
+  - Collaborator

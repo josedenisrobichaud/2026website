@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Am bega
+is_owner: false
+name:
+  display: Amanda Bega
+  given: Amanda
+  family: Bega
+
+user_groups:
+  - Collaborator

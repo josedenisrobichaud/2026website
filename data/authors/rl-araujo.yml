@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Rl araujo
+is_owner: false
+name:
+  display: Ricardo Araújo
+  given: Ricardo
+  family: Araújo
+
+user_groups:
+  - Collaborator

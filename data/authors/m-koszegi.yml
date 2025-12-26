@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: M koszegi
+is_owner: false
+name:
+  display: Marika Koszegi
+  given: Marika
+  family: Koszegi
+
+user_groups:
+  - Collaborator

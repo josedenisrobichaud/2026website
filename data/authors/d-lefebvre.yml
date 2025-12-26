@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: D lefebvre
+is_owner: false
+name:
+  display: Daniel Lefebvre
+  given: Daniel       
+  family: Lefebvre
+
+user_groups:
+  - Collaborator

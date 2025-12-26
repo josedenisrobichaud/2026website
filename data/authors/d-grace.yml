@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: D grace
+is_owner: false
+name:
+  display: Delia Grace
+  given: Delia       
+  family: Grace
+
+user_groups:
+  - Collaborator

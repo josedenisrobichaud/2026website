@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Ap oliveira
+is_owner: false
+name:
+  display: Ana Paula Oliveira
+  given: Ana Paula
+  family: Oliveira
+
+user_groups:
+  - Collaborator

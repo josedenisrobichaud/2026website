@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: N xenakis
+is_owner: false
+name:
+  display: Nadia Xenakis
+  given: Nadia
+  family: Xenakis
+
+
+user_groups:
+  - Collaborator

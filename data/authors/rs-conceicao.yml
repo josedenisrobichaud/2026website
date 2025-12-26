@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Rs conceicao
+is_owner: false
+name:
+  display: Rodrigo Conceicao
+  given: Rodrigo
+  family: Conceicao
+
+user_groups:
+  - Collaborator

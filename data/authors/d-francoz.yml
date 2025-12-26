@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: D francoz
+is_owner: false
+name:
+  display: David Francoz
+  given: David     
+  family: Francoz
+
+user_groups:
+  - Collaborator

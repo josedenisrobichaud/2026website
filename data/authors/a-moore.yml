@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: A moore
+is_owner: false
+name:
+  display: Ainsley Moore
+  given: Ainsley
+  family: Moore
+
+user_groups:
+  - Collaborator

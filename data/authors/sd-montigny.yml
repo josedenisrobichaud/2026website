@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Sd montigny
+is_owner: false
+name:
+  display: Simon de Montigny
+  given: Simon
+  family: de Montigny
+
+user_groups:
+  - Collaborator

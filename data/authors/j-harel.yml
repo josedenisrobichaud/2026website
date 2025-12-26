@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: J harel
+is_owner: false
+name:
+  display: Josée Harel
+  given: Josée 
+  family: Harel
+
+user_groups:
+  - Collaborator

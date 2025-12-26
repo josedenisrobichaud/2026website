@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: M gangbe
+is_owner: false
+name:
+  display: Marcellin Gangbè
+  given: Marcellin
+  family: Gangbè
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: F lima
+is_owner: false
+name:
+  display: Fabio Lima
+  given: Fabio
+  family: Lima
+
+user_groups:
+  - Collaborator

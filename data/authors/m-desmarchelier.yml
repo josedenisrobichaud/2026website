@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: M desmarchelier
+is_owner: false
+name:
+  display: Marion Desmarchelier
+  given: Marion
+  family: Desmarchelier
+
+
+user_groups:
+  - Collaborator

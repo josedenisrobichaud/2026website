@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: A jones bitton
+is_owner: false
+name:
+  display: Andria Jones-Bitton
+  given: Andria       
+  family: Jones-Bitton 
+
+user_groups:
+  - Collaborator

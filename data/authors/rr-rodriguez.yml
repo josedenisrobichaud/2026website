@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Rr rodriguez
+is_owner: false
+name:
+  display: Rudy Rodriguez
+  given: Rudy 
+  family: Rodriguez
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: Cf baes
+is_owner: false
+name:
+  display: Christine Baes
+  given: Christine
+  family: Baes
+
+
+user_groups:
+  - Collaborator

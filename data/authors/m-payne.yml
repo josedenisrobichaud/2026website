@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: M payne
+is_owner: false
+name:
+  display: Martha Payne
+  given: Martha 
+  family: Payne
+
+user_groups:
+  - Collaborator

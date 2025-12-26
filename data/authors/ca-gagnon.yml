@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Ca gagnon
+is_owner: false
+name:
+  display: Carl Gagnon
+  given: Carl 
+  family: Gagnon
+
+user_groups:
+  - Collaborator

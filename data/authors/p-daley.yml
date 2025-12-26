@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: P daley
+is_owner: false
+name:
+  display: Patrick Daley
+  given: Patrick
+  family: Daley
+
+user_groups:
+  - Collaborator

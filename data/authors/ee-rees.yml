@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Ee rees
+is_owner: false
+name:
+  display: Erin Rees
+  given: Erin
+  family: Rees
+
+user_groups:
+  - Collaborator

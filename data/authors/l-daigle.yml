@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: L daigle
+is_owner: false
+name:
+  display: Laurence Daigle
+  given: Laurence
+  family: Daigle
+
+user_groups:
+  - Collaborator

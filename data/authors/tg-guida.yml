@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: Tg guida
+is_owner: false
+name:
+  display: Thiago Guida
+  given: Thiago 
+  family: Guida
+
+
+user_groups:
+  - Collaborator

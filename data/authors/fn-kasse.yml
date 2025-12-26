@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Fn kasse
+is_owner: false
+name:
+  display: Flavien Ndongo Kassé
+  given: Flavien   
+  family: Ndongo Kassé 
+
+user_groups:
+  - Collaborator

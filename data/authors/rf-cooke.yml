@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Rf cooke
+is_owner: false
+name:
+  display: Reinaldo Cooke
+  given: Reinaldo 
+  family: Cooke
+
+user_groups:
+  - Collaborator

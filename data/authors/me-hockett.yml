@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Me hockett 
+is_owner: false
+name:
+  display: Mitchell Hockett
+  given: Mitchell  
+  family: Hockett 
+
+user_groups:
+  - Collaborator

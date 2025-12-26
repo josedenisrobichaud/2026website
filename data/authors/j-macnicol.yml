@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: J macnicol
+is_owner: false
+name:
+  display: Jennifer MacNicol
+  given: Jennifer
+  family: MacNicol
+
+user_groups:
+  - Collaborator

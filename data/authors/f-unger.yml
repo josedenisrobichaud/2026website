@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: F unger
+is_owner: false
+name:
+  display: Fred Unger
+  given: Fred       
+  family: Unger
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Rla cerri
+is_owner: false
+name:
+  display: Ronaldo Cerri
+  given: Ronaldo
+  family: Cerri
+
+user_groups:
+  - Collaborator

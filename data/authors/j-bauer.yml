@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: J bauer
+is_owner: false
+name:
+  display: Janet Bauer
+  given: Janet
+  family: Bauer
+
+user_groups:
+  - Collaborator

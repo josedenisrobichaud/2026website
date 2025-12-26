@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: N nantel fortier
+is_owner: false
+name:
+  display: Nicolas Nantel-Fortier
+  given: Nicolas
+  family: Nantel-Fortier
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Ca bauman
+is_owner: false
+name:
+  display: Cathy Bauman
+  given: Cathy     
+  family: Bauman
+
+user_groups:
+  - Collaborator

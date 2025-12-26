@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: H khalid
+is_owner: false
+name:
+  display: Hattaw Khalid
+  given: Hattaw 
+  family: Khalid
+
+user_groups:
+  - Collaborator

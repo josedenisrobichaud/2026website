@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: Ml sadoine
+is_owner: false
+name:
+  display: Margaux Sadoine
+  given: Margaux
+  family: Sadoine
+
+
+user_groups:
+  - Collaborator

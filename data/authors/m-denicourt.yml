@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: M denicourt
+is_owner: false
+name:
+  display: Martine Denicourt
+  given: Martine
+  family: Denicourt
+
+
+user_groups:
+  - Collaborator

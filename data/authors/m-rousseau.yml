@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: M rousseau
+is_owner: false
+name:
+  display: Marjolaine Rousseau
+  given: Marjolaine
+  family: Rousseau
+
+
+user_groups:
+  - Collaborator

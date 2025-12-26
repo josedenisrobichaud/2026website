@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: A sica
+is_owner: false
+name:
+  display: Alex Sica
+  given: Alex
+  family: sica
+
+user_groups:
+  - Collaborator

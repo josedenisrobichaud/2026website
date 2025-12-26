@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: N prystajecky
+is_owner: false
+name:
+  display: Natalie Prystajecky
+  given: Natalie
+  family: Prystajecky
+
+user_groups:
+  - Collaborator

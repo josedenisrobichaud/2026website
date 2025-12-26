@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Hht ngo
+is_owner: false
+name:
+  display: Hai Hoang Tuan Ngo
+  given: Hai Hoang Tuan  
+  family: Ngo
+
+user_groups:
+  - Collaborator

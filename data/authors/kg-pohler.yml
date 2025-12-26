@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: Kg pohler
+is_owner: false
+name:
+  display: Ky Pohler
+  given: Ky
+  family: Pohler
+
+user_groups:
+  - Collaborator

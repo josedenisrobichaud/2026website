@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: I nicola
+is_owner: false
+name:
+  display: Isabella Nicola
+  given: Isabella
+  family: Nicola
+
+user_groups:
+  - Collaborator

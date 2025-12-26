@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: D kelton
+is_owner: false
+name:
+  display: David Kelton
+  given: David     
+  family: Kelton
+
+user_groups:
+  - Collaborator

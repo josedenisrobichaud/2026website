@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: Ma sirard
+is_owner: false
+name:
+  display: Marc-André Sirard
+  given: Marc-André
+  family: Sirard
+
+
+user_groups:
+  - Collaborator

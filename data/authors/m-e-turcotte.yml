@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: M e turcotte
+is_owner: false
+name:
+  display: Marie-Ève Turcotte
+  given: Marie-Ève 
+  family: Turcotte
+
+user_groups:
+  - Collaborator

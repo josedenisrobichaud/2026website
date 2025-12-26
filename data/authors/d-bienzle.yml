@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: D bienzle
+is_owner: false
+name:
+  display: Dorothee Bienzle
+  given: Dorothee 
+  family: Bienzle
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: H nguyen viet
+is_owner: false
+name:
+  display: Hung Nguyen-Viet
+  given: Hung       
+  family: Nguyen-Viet
+
+user_groups:
+  - Collaborator

@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: Acc fernandes
+is_owner: false
+name:
+  display: Artur Fernandes
+  given: Artur
+  family: Fernandes
+
+
+user_groups:
+  - Collaborator

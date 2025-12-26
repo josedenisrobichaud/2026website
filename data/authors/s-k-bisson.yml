@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: S k bisson
+is_owner: false
+name:
+  display: Sarah-Kim Bisson
+  given: Sarah-Kim 
+  family: Bisson
+
+user_groups:
+  - Collaborator
