@@ -12,7 +12,9 @@ publishDate: '2025-12-26T01:35:52.446876Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Environmental Research and Public Health*'
-doi: 10.3390/ijerph19042215
+hugoblox:
+  ids:
+    doi: 10.3390/ijerph19042215
 abstract: The objective of this cross-sectional study was to assess the association
   between pet ownership and quality of life (QoL), loneliness, anxiety, stress, overall
   health, and mental health of Canadians during the COVID-19 pandemic using a One

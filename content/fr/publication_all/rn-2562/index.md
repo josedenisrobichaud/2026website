@@ -9,7 +9,9 @@ publishDate: '2025-12-26T01:35:52.541723Z'
 publication_types:
 - article-journal
 publication: '*Journal of Dairy Science*'
-doi: 10.3168/jds.2014-9129
+hugoblox:
+  ids:
+    doi: 10.3168/jds.2014-9129
 abstract: 'The objectives of this study were to quantify the effect of an intrauterine
   infusion of cephapirin on reproductive performance at first service of postpartum
   dairy cows affected by purulent vaginal discharge (PVD) and cytological endometritis

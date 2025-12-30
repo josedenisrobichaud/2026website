@@ -14,7 +14,9 @@ publishDate: '2025-12-26T01:35:52.454833Z'
 publication_types:
 - article-journal
 publication: '*The Bovine Practitioner*'
-doi: 10.21423/bovine-vol53no2p150-159
+hugoblox:
+  ids:
+    doi: 10.21423/bovine-vol53no2p150-159
 abstract: The objectives of this study were 1) to determine the operating characteristics
   of a commercial milk leukocyte differential (MLD) test to detect intramammary infections
   in quarters of late-lactation dairy cows as compared to bacteriological culture

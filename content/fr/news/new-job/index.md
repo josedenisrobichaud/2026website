@@ -9,7 +9,7 @@ image:
   caption: 'par [**Jacki Bruniquel**](https://jackibruniquel.com/)'
 
 authors:
-  - admin
+  - me
 
 tags:
   - Professeure
@@ -32,33 +32,3 @@ Même si je garderai toujours l'esprit nomade, je suis prête pour ce changement
 À tous ceux qui m'ont soutenue et encouragée sur ce chemin peu conventionnel, je vous dis merci. Votre confiance a contribué à rendre cette nouvelle étape possible.
 
 Je me réjouis de ces grands changements, de mes nouvelles racines et de cette aventure, un peu plus lente.
-
-<div class="insta-wrapper">
-
-  <div class="insta-post">
-  <div class="insta-embed-container">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CPYce0-LOol/" data-instgrm-version="14"></blockquote>
-  </div>
-  </div>
-
-  <div class="insta-post">
-  <div class="insta-embed-container">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CR6CXzOrjgw/" data-instgrm-version="14"></blockquote>
-  </div>
-  </div>
-
-  <div class="insta-post">
-  <div class="insta-embed-container">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CjKPOgYobwf/" data-instgrm-version="14"></blockquote>
-  </div>
-  </div>
-
-
-  <div class="insta-post">
-  <div class="insta-embed-container">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CUcs-VeF84h/" data-instgrm-version="14"></blockquote>
-  </div>
-  </div>
-</div>
-
-<script async src="//www.instagram.com/embed.js"></script>

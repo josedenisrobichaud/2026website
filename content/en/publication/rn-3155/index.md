@@ -15,7 +15,9 @@ publishDate: '2025-12-26T01:35:52.633051Z'
 publication_types:
 - article-journal
 publication: '*JDS Communications*'
-doi: https://doi.org/10.3168/jdsc.2025-0784
+hugoblox:
+  ids:
+    doi: https://doi.org/10.3168/jdsc.2025-0784
 abstract: The objective of this ambidirectional observational cohort study was to
   explore how nonesterified fatty acids (NEFA) 22 to 35 d before calving were related
   to NEFA 1 to 14 d before calving and to determine a threshold that could be used

@@ -2,6 +2,7 @@
 title: Validity of purulent vaginal discharge, esterase, luminometry, and three bacteriological
   tests for diagnosing uterine infection in dairy cows using Bayesian latent class
   analysis
+featured: true
 authors:
 - ' me'
 - N Barbeau-Gregoire
@@ -15,7 +16,9 @@ publishDate: '2025-12-26T01:35:52.469944Z'
 publication_types:
 - article-journal
 publication: '*Preventive Veterinary Medicine*'
-doi: 10.1016/j.prevetmed.2025.106521
+hugoblox:
+  ids:
+    doi: 10.1016/j.prevetmed.2025.106521
 abstract: This prospective cross-sectional study aimed to evaluate the ability of
   laboratory bacterial culture, Petrifilm, Tri-Plate, luminometry, purulent vaginal
   discharge (PVD), and esterase to correctly identify uterine infection in dairy cows,

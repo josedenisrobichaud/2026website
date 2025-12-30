@@ -1,7 +1,7 @@
 ---
-title: 'DFC|PLC: Paths to On-Farm Excellence'
+title: 'DFC|PLC: Chemins vers l`Excellence à la Ferme (français et anglais)'
 
-event: Podcasts - Dairy Farmers of Canada
+event: Balados - Les Producteurs Laitiers du Canada
 event_url: https://on.soundcloud.com/1cGIQQWq7EN7yYlbA4
 
 #location: Hugo Blox Builder HQ
@@ -12,8 +12,8 @@ event_url: https://on.soundcloud.com/1cGIQQWq7EN7yYlbA4
   #postcode: '94305'
   #country: United States
 
-summary: 'A series of podcasts produced by ACER Consulting on various aspects of dairy production in Canada, from biodiversity on farms to animal welfare, and of course proAction.'
-abstract: 'A series of podcasts produced by [ACER Consulting](https://acerconsult.ca/) on various aspects of dairy production in Canada, from biodiversity on farms to animal welfare, and of course proAction.'
+summary: Série de balados produits par ACER consulting ayant comme thème divers aspects de la production laitière au Canada, de la biodiversité sur les fermes au bien-être animal, en passant évidemment par proAction.
+abstract: Série de balados produits par ACER consulting ayant comme thème divers aspects de la production laitière au Canada, de la biodiversité sur les fermes au bien-être animal, en passant évidemment par proAction.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -27,7 +27,7 @@ publishDate: '2017-01-01T00:00:00Z'
 authors:
   - me
 
-tags: [Dairy cows]
+tags: [Vaches Laitières]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -38,15 +38,12 @@ image:
   preview_only: false
 
 links:
-  - icon: milk
-    #icon_pack: fab
-    name: proAction
+  - name: proAction
     url: 'https://www.producteurslaitiers.ca/proaction'
-  - icon: buisness
-    name: ACER consulting
+  - name: ACER consulting
     url: 'https://acerconsult.ca/'
   - icon: microphone
-    name: podcasts
+    name: balados
     url: 'https://on.soundcloud.com/1cGIQQWq7EN7yYlbA4'
 #url_code: 'https://github.com'
 #url_pdf: ''

@@ -12,7 +12,9 @@ publishDate: '2025-12-26T01:35:52.697200Z'
 publication_types:
 - article-journal
 publication: '*Journal of Dairy Science*'
-doi: 10.3168/jds.2021-21766
+hugoblox:
+  ids:
+    doi: 10.3168/jds.2021-21766
 abstract: 'The objective of this observational study was to evaluate the relationship
   between genomic daughter pregnancy rate (GDPR) with reproduction parameters such
   as pregnancy at first artificial insemination (AI), pregnancy per AI, and pregnancy

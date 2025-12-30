@@ -15,7 +15,9 @@ publishDate: '2025-12-26T01:35:52.641289Z'
 publication_types:
 - article-journal
 publication: '*Journal of Dairy Science*'
-doi: 10.3168/jds.2024-24792
+hugoblox:
+  ids:
+    doi: 10.3168/jds.2024-24792
 abstract: 'In this study, the main objective was to assess if long luteal phases could
   have other causes than pregnancy losses. We enrolled Holstein dairy cows ≥50 d in
   milk (DIM) from a commercial herd in Brazil from October 2016 to August 2017. All

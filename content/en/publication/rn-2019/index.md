@@ -9,7 +9,9 @@ publishDate: '2025-12-26T01:35:52.673075Z'
 publication_types:
 - article-journal
 publication: '*Journal of Dairy Science*'
-doi: 10.3168/jds.2016-12144
+hugoblox:
+  ids:
+    doi: 10.3168/jds.2016-12144
 abstract: The objectives of this study were to quantify the herd-level prevalence
   of postpartum diseases in a large number of dairy farms, and to identify prevalence
   alarm levels of these diseases based on association with a low prevalence of success

@@ -30,4 +30,5 @@ abstract: Objective To describe the knowledge, attitudes, and practices (KAP) to
   characteristics were associated with stress and professional QoL. This information
   is important for developing strategies to cope with the ongoing shortage of AHW
   and with future public health crises.
+
 ---

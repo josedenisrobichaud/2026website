@@ -13,7 +13,9 @@ publishDate: '2025-12-26T01:35:52.411297Z'
 publication_types:
 - article-journal
 publication: '*Preventive Veterinary Medicine*'
-doi: 10.1016/j.prevetmed.2018.11.003
+hugoblox:
+  ids:
+    doi: 10.1016/j.prevetmed.2018.11.003
 abstract: 'The objectives of this retrospective study were: 1) to determine the sensitivity
   (Se) and specificity (Sp) of leukocyte esterase test (LE), endometrial cytology
   (CYTO) and vaginal discharge score (VDS) for diagnosis of reproductive tract diseases

@@ -15,7 +15,9 @@ publishDate: '2025-12-26T01:35:52.438425Z'
 publication_types:
 - article-journal
 publication: '*One Health*'
-doi: 10.1016/j.onehlt.2022.100380
+hugoblox:
+  ids:
+    doi: 10.1016/j.onehlt.2022.100380
 abstract: "While One Health initiatives are gaining in popularity, it is unclear if
   and how they are evaluated when implementation at scale is intended. The main purpose
   of this scoping review was to describe how One Health initiatives targeting infectious

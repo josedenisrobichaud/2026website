@@ -25,7 +25,9 @@ publishDate: '2025-12-26T01:35:52.430053Z'
 publication_types:
 - article-journal
 publication: '*BMC Veterinary Research*'
-doi: 10.1186/s12917-024-04150-4
+hugoblox:
+  ids:
+    doi: 10.1186/s12917-024-04150-4
 abstract: The primary objective of this cross-sectional study, conducted in Quebec
   and Bristish Columbia (Canada) between February 2021 and January 2022, was to measure
   the prevalence of viral RNA in oronasal and rectal swabs and serum antibodies to

@@ -15,7 +15,9 @@ publishDate: '2025-12-26T01:35:52.758495Z'
 publication_types:
 - article-journal
 publication: '*Preventive Veterinary Medicine*'
-doi: 10.1016/j.prevetmed.2020.105231
+hugoblox:
+  ids:
+    doi: 10.1016/j.prevetmed.2020.105231
 abstract: The bacterium Coxiella burnetii has been associated with reproduction disorders
   in dairy cattle. A cross-sectional study was conducted in Quebec, Canada, to estimate
   the prevalence of C. burnetii in dairy cows from C. burnetii RT-PCR-positive and/or

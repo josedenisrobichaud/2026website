@@ -1,5 +1,5 @@
 ---
-title: Use of bacterial markers to predict endometritis in dairy cows
+title: Utilisation de marqueurs bactériens pour prédire l'endométrite chez les vaches laitières
 date: 2025-08-01
 external_link:
 tags:
@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 ---
-Using advanced DNA sequencing to identify bacterial signatures that forecast uterine inflammation before it impacts fertility and herd health.
+Utilisation du séquençage d'ADN avancé pour identifier les signatures bactériennes qui prédisent l'inflammation utérine avant qu'elle n'affecte la fertilité et la santé du troupeau.
 <!--more-->
 
 ## Équipe
@@ -28,7 +28,7 @@ Using advanced DNA sequencing to identify bacterial signatures that forecast ute
 
 ## En bref
 
-Endometritis, an inflammation of the inner lining of the uterus, is common in dairy cows, particularly in the postpartum period. It affects fertility and overall health, resulting in significant economic losses in the dairy industry. The significant consequences of endometritis include longer intervals between pregnancies, increased need for veterinary care, and use of antimicrobials, which are associated with decreased performance. Nearly 100% of cows have bacterial contamination in the uterus after calving, and expected changes in the microbiota are observed during uterine involution. However, when there are imbalances in the resident bacteria, the environment becomes more susceptible to the proliferation of pathogenic organisms, such as Trueperella and E. coli. New DNA sequencing and quantification technologies have become readily available in recent decades, enabling exponential growth in our understanding of the relationship between the host and its microbiota. Therefore, this study aims to detect bacterial markers present in the uterus of dairy cows that can predict the onset of endometritis.
+L'endométrite, une inflammation de l'utérus, est fréquente chez les vaches laitières, particulièrement durant la période post-partum. Elle affecte la fertilité et la santé globale, entraînant des pertes économiques importantes dans l'industrie laitière. Les conséquences significatives de l'endométrite incluent des intervalles plus longs entre les gestations, un besoin accru de soins vétérinaires et l'utilisation d'antimicrobiens, qui sont associés à une diminution des performances. Près de 100 % des vaches présentent une contamination bactérienne dans l'utérus après le vêlage, et des changements attendus dans le microbiote sont observés durant l'involution utérine. Cependant, lorsqu'il y a des déséquilibres dans les bactéries résidentes, l'environnement devient plus susceptible à la prolifération d'organismes pathogènes, tels que Trueperella et E. coli. De nouvelles technologies de séquençage et de quantification de l'ADN sont devenues facilement accessibles au cours des dernières décennies, permettant une croissance exponentielle de notre compréhension de la relation entre l'hôte et son microbiote. Par conséquent, cette étude vise à détecter les marqueurs bactériens présents dans l'utérus des vaches laitières qui peuvent prédire l'apparition de l'endométrite.
 
 ## Financement
 

@@ -11,5 +11,7 @@ publishDate: '2025-12-26T01:35:52.493587Z'
 publication_types:
 - article-journal
 publication: '*Journal of Dairy Science*'
-doi: 10.3168/jds.2016-12416
+hugoblox:
+  ids:
+    doi: 10.3168/jds.2016-12416
 ---

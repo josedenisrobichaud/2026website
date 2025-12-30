@@ -17,7 +17,9 @@ publishDate: '2025-12-26T01:35:52.572367Z'
 publication_types:
 - article-journal
 publication: '*BMC Public Health*'
-doi: 10.1186/s12889-024-18460-7
+hugoblox:
+  ids:
+    doi: 10.1186/s12889-024-18460-7
 abstract: With increased attention to the importance of integrating the One Health
   approach into zoonotic disease surveillance and response, a greater understanding
   of the mechanisms to support effective communication and information sharing across

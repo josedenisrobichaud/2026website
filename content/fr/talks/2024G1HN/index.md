@@ -1,7 +1,7 @@
 ---
-title: 'A Qualitative Case Study of Swine Influenza'
+title: 'Étude de cas qualitative sur la grippe porcine au Canada (anglais)'
 
-event: Global One Health Network webinar
+event: Webinaire du Réseau Une Seule Santé
 event_url: https://global1hn.ca/
 
 #location: Hugo Blox Builder HQ
@@ -12,8 +12,8 @@ event_url: https://global1hn.ca/
   #postcode: '94305'
   #country: United States
 
-summary: This webinar provides insights into the communication channels utilized during the swine influenza crisis in Canada in 2020, showcasing the collaborative efforts of stakeholders through a One Health approach.
-abstract: This webinar provides insights into the communication channels utilized during the swine influenza crisis in Canada in 2020, showcasing the collaborative efforts of stakeholders through a One Health approach.
+summary: Ce webinaire donne un aperçu des canaux de communication utilisés pendant un cas de grippe porcine au Canada en 2020, en mettant en lumière les efforts de collaboration des parties prenantes dans le cadre d'une approche Une Seule Santé.
+abstract: Ce webinaire donne un aperçu des canaux de communication utilisés pendant un cas de grippe porcine au Canada en 2020, en mettant en lumière les efforts de collaboration des parties prenantes dans le cadre d'une approche Une Seule Santé.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -27,7 +27,7 @@ publishDate: '2017-01-01T00:00:00Z'
 authors:
   - me
 
-tags: [One Health, communication]
+tags: [Une Seule Santé, communication]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -44,7 +44,8 @@ links:
 #url_code: 'https://github.com'
 #url_pdf: ''
 #url_slides: 'https://slideshare.net'
-url_video: 'https://youtu.be/zpPxRdOYkOw?si=RPmj75QJbRO5dvax'
+  - type: video
+    url: 'https://youtu.be/zpPxRdOYkOw?si=RPmj75QJbRO5dvax'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

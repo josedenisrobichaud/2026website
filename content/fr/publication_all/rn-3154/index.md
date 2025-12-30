@@ -18,7 +18,9 @@ publishDate: '2025-12-26T01:35:52.734364Z'
 publication_types:
 - article-journal
 publication: '*Journal of Dairy Science*'
-doi: 10.3168/jds.2025-26521
+hugoblox:
+  ids:
+    doi: 10.3168/jds.2025-26521
 abstract: 'This study aimed to evaluate if different concentrations of progesterone
   (P4) before estrus and different intensities of estrous expression affected endometrial
   gene expression in lactating Holstein cows. Animals were randomly assigned into

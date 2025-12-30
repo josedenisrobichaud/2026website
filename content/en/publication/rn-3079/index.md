@@ -17,7 +17,9 @@ publishDate: '2025-12-26T01:35:52.748961Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Food Microbiology*'
-doi: 10.1016/j.ijfoodmicro.2021.109163
+hugoblox:
+  ids:
+    doi: 10.1016/j.ijfoodmicro.2021.109163
 abstract: 'Pork and pork products are important staple food in the diet of Vietnamese
   consumers. The safety of pork, including biological contamination, is a concern
   to several public authorities and value chain actors. This cross-sectional study

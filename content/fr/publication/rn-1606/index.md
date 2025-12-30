@@ -12,7 +12,9 @@ publishDate: '2025-12-26T01:35:52.586787Z'
 publication_types:
 - article-journal
 publication: '*Journal of Dairy Science*'
-doi: 10.3168/jds.2018-15921
+hugoblox:
+  ids:
+    doi: 10.3168/jds.2018-15921
 abstract: <h2>ABSTRACT</h2><p>The Canadian dairy industry has created national standards
   to support the adoption of biosecurity practices and to reduce disease risks across
   the country. There is, however, very little information on the adoption of these

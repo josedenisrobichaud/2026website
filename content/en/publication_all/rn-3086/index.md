@@ -12,7 +12,9 @@ publishDate: '2025-12-26T01:35:52.610115Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Veterinary Science*'
-doi: 10.3389/fvets.2018.00210
+hugoblox:
+  ids:
+    doi: 10.3389/fvets.2018.00210
 abstract: The ability of automated activity monitoring (AAM) systems to detect estrus
   is influenced by multiple variables. The luteal phase (LP) preceding estrus has
   been shown to be important for hormones release, and behavior during estrus in ruminants,

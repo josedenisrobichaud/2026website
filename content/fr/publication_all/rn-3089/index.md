@@ -9,7 +9,9 @@ publishDate: '2025-12-26T01:35:52.526209Z'
 publication_types:
 - article-journal
 publication: '*The Bovine Practitioner*'
-doi: 10.21423/bovine-vol45no2p97-100
+hugoblox:
+  ids:
+    doi: 10.21423/bovine-vol45no2p97-100
 abstract: The objectives of this study were to determine the accuracy of the PortaBHBTM
   milk strip for detection of hyperketonemia in early lactation cows, and to compare
   the agreement of results from quarter and composite samples. A total of 577 Holstein

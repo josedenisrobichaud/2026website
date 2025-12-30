@@ -12,7 +12,9 @@ publishDate: '2025-12-26T01:35:52.564030Z'
 publication_types:
 - article-journal
 publication: '*Theriogenology*'
-doi: 10.1016/j.theriogenology.2022.04.018
+hugoblox:
+  ids:
+    doi: 10.1016/j.theriogenology.2022.04.018
 abstract: This study aimed to evaluate animal and ovarian parameters that affected
   fertilization and embryo development up to the morula stage. The data were combined
   from four studies in which cows were inseminated between 46 and 60 days in milk,

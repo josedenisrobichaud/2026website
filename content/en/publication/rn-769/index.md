@@ -12,7 +12,9 @@ publishDate: '2025-12-26T01:35:52.502664Z'
 publication_types:
 - article-journal
 publication: '*Journal of Dairy Science*'
-doi: 10.3168/jds.2016-12256
+hugoblox:
+  ids:
+    doi: 10.3168/jds.2016-12256
 abstract: Identifying cows in estrus remains a challenge on dairy cattle farms, and
   tools and technologies have been developed and used to complement or replace visual
   detection of estrus. Automated activity monitoring (AAM) systems and timed artificial

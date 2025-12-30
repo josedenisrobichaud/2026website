@@ -13,6 +13,15 @@ sections:
       text: |
         *Welcome to my website!*
     design:
+      background:
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+        text_color_light: true 
       spacing:
         padding: ["10px", "0", "30px", "0"]
   - block: hero
@@ -41,6 +50,7 @@ sections:
             brightness: 1.0
           size: cover
           position: center
+        text_color_light: true 
       spacing:
       # Top, Right, Bottom, Left
         padding: ["10px", "0", "10px", "0"]
@@ -96,6 +106,7 @@ sections:
             brightness: 1.0
           size: cover
           position: center
+        text_color_light: true
       design:
         spacing:
         # Top, Right, Bottom, Left

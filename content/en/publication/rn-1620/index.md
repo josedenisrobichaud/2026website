@@ -10,7 +10,9 @@ publishDate: '2025-12-26T01:35:52.485003Z'
 publication_types:
 - article-journal
 publication: '*Journal of Dairy Science*'
-doi: 10.3168/jds.2016-11445
+hugoblox:
+  ids:
+    doi: 10.3168/jds.2016-11445
 abstract: 'The objectives of this study were to (1) quantify current reproduction
   management practices, and (2) assess the association between these practices and
   herd reproductive performance on dairy farms in Canada. A bilingual survey was developed,

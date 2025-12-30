@@ -13,7 +13,9 @@ publishDate: '2025-12-26T01:35:52.518350Z'
 publication_types:
 - article-journal
 publication: '*The Bovine Practitioner*'
-doi: 10.21423/bovine-vol55no2p140-152
+hugoblox:
+  ids:
+    doi: 10.21423/bovine-vol55no2p140-152
 abstract: The objective of this study was to describe the proportion of enteric and
   respiratory pathogens and diseases in unvaccinated pre-weaned dairy heifers, in
   their first 2 weeks of life (exam 1), and at 4- to 8-weeks old (exam 2). Heifers

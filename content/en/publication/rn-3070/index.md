@@ -12,5 +12,7 @@ publishDate: '2025-12-26T01:35:52.666153Z'
 publication_types:
 - article-journal
 publication: '*JDS Communications*'
-doi: 10.3168/jdsc.2024-0691
+hugoblox:
+  ids:
+    doi: 10.3168/jdsc.2024-0691
 ---

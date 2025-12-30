@@ -17,7 +17,9 @@ publishDate: '2025-12-26T01:35:52.712765Z'
 publication_types:
 - article-journal
 publication: '*Theriogenology*'
-doi: https://doi.org/10.1016/j.theriogenology.2025.117596
+hugoblox:
+  ids:
+    doi: https://doi.org/10.1016/j.theriogenology.2025.117596
 abstract: 'This study aimed to assess how two estrus detection tools, an automated
   activity monitor (AAM) and tail chalk (TC), were associated with true estrus events
   in lactating Holstein cows. Cows with days in milk ≥5 were monitored twice daily

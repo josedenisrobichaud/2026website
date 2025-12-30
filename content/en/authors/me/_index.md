@@ -26,7 +26,7 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+        text_color_light: true
 #  - block: resume-awards
  #   content:
   #    title: Awards

@@ -16,7 +16,9 @@ publishDate: '2025-12-26T01:35:52.650198Z'
 publication_types:
 - article-journal
 publication: '*Journal of Medical Internet Research*'
-doi: 10.2196/51325
+hugoblox:
+  ids:
+    doi: 10.2196/51325
 abstract: 'Background: The effectiveness of public health measures (PHMs) depends
   on population adherence. Social media were suggested as a tool to assess adherence,
   but representativeness and accuracy issues have been raised. Objective: The objectives

@@ -15,7 +15,9 @@ publishDate: '2025-12-26T01:35:52.688688Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Veterinary Science*'
-doi: 10.3389/fvets.2018.00135
+hugoblox:
+  ids:
+    doi: 10.3389/fvets.2018.00135
 abstract: 'Metritis affects up to 40% of dairy cows and it is usually treated with
   antibiotics. In spite of their advantages, there is an increased concern about antibiotic
   resistance leading to the research of alternative methods. The aim of this study

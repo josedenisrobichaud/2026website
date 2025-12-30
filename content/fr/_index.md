@@ -13,6 +13,15 @@ sections:
       text: |
         *Bienvenue sur mon site!*
     design:
+      background:
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+        text_color_light: true 
       spacing:
         padding: ["10px", "0", "30px", "0"]
   - block: hero
@@ -41,9 +50,11 @@ sections:
             brightness: 1.0
           size: cover
           position: center
+        text_color_light: true
       spacing:
       # Top, Right, Bottom, Left
         padding: ["10px", "0", "10px", "0"]
+      
   - block: research-areas
     content:
       title: 'Sujets de recherche'
@@ -93,9 +104,10 @@ sections:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
-            brightness: 1.0
+            brightness: 1.5
           size: cover
           position: center
+        text_color_light: true 
       design:
         spacing:
         # Top, Right, Bottom, Left

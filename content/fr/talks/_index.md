@@ -9,8 +9,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Talks
-      text: 'From podcasts with agricultural stakeholders to online scientific presentations, there are multiple ways we like to share our passion.'
+      title: Communications
+      text: 'Des balados avec des intervenants du milieu agricole aux présentations scientifiques en ligne, nous aimons partager notre passion de multiples façons.'
       filters:
         folders:
           - talks
