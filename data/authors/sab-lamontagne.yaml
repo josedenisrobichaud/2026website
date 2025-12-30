@@ -1,5 +1,6 @@
-schema: hugoblox/author/v1
+schema: hugoblox/author/v2
 slug: sab-lamontagne
+weight: 2
 is_owner: false
 name:
   display: Sabrina Lamontagne
@@ -9,7 +10,7 @@ postnominals:
   - TSA
 status:
   icon: 
-role: Animal health technician
+role: Technicienne en santé animale
 affiliations:
   - name: Université de Montréal
     url: https://fmv.umontreal.ca/fmv/
@@ -21,4 +22,5 @@ links:
     url: mailto:sabrina.lamontagne.1@umontreal.ca
 
 user_groups:
-  - Staff
+  - Meet the Team
+  - L'équipe

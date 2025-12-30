@@ -1,6 +1,7 @@
-schema: hugoblox/author/v1
+schema: hugoblox/author/v2
 slug: me
 is_owner: true
+weight: 1
 name:
   display: José Denis-Robichaud
   given: José
@@ -12,9 +13,9 @@ postnominals:
   - Dipl. ACVPM
 status:
   icon: 
-role: Assistant professor
+role: Professeure adjointe
 bio: |
-  As a specialist in veterinary preventive medicine with expertise in epidemiology and biostatistics, I focus on applying the One Health approach across various contexts — from animal population health to public health. I’m currently a professor in veterinary livestock management at the Faculté de médecine vétérinaire, Université de Montréal (Rimouski campus), where I have the pleasure of teaching passionate students and leading exciting research projects. You can find more details about me [here](/jo).
+  Spécialiste en médecine vétérinaire préventive, avec une expertise en épidémiologie et en biostatistique, je m’intéresse à l’application concrète de l’approche Une Seule Santé — de la santé des populations animales à celle des humains. Je suis professeure en gestion des élevages à la Faculté de médecine vétérinaire de l’Université de Montréal (campus de Rimouski), où j’ai le plaisir d’enseigner à des étudiant·es engagé·es et de mener des projets de recherche passionnants.
 
 affiliations:
   - name: Université de Montréal
@@ -38,62 +39,63 @@ links:
     url: https://dataverse.harvard.edu/dataverse/josedr
 
 interests:
-  - Veterinary preventive medicine
-  - Herd health management
-  - Epidemiology
-  - Animal health 
-  - Physiology
+  - Médecine vétérinaire préventive
+  - Gestion de la santé des troupeaux
+  - Épidémiologie
+  - Santé animale
+  - Physiologie
   - Reproduction
-  - One Health 
-  - Biostatistics
-  - Dairy cows
+  - Une Seule Santé
+  - Biostatistiques
+  - Vaches laitières
   - Technologies
+  - Une Seule Santé
 
 education:
-  - degree: PhD Population Medicine
+  - degree: PhD Médecine de population
     institution: University of Guelph
     start: 2013-09-01
     end: 2017-02-28
     summary: |
-      "Thesis on the *Assessment of automated activity monitors for managing reproduction in dairy cows*. Supervised by [Stephen LeBlanc](https://ovc.uoguelph.ca/population-medicine/faculty/stephen-leblanc/)."
+      "Thèse sur l'*Évaluation des moniteurs d’activité pour la gestion de la reproduction chez les vaches laitières*. Sous la direction de [Stephen LeBlanc](https://ovc.uoguelph.ca/population-medicine/faculty/stephen-leblanc/)."
     button:
-      text: Thesis
+      text: Thèse
       url: http://hdl.handle.net/10214/10123
       icon: hero/arrow-down-tray
-  - degree: M.Sc. Veterinary Sciences 
+  - degree: MSc Sciences vétérinaires 
     institution: Université de Montréal
     start: 2011-09-01
     end: 2013-08-31
     summary: |
-      "Thesis on the *Effect of intrauterine cephapirin treatment on reproductive performance of dairy cows*. Supervised by [Jocelyn Dubuc](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in15946/sg/Jocelyn%20Dubuc/)."
+      "Mémoire sur l'*Effet d’un traitement intra-utérin de céphapirine sur les performances en reproduction des vaches laitières*. Sous la direction de [Jocelyn Dubuc](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in15946/sg/Jocelyn%20Dubuc/)."
     button:
-      text: Thesis
+      text: Mémoire
       url: http://hdl.handle.net/1866/10776
       icon: hero/arrow-down-tray
-  - degree: Doctorate in Veterinary Medicine
+  - degree: Doctorat en médecine vétérinaire
     institution: Université de Montréal
     start: 2006-08-15
     end: 2011-05-31
 
 experience:
-  - role: Assistant professor
+  - role: Professeure adjointe
     org: Faculté de médecine vétérinaire, Université de Montréal
     start: 2025-07-02
-  - role: Consultant in epidemiology and preventive veterinary medicine
+  - role: Consultante en épidémiologie et médecine vétérinaire préventive
     org: 
     start: 2017-03-01
-    summary: Applied research in animal and public health with integrated knowledge translation, producing peer-reviewed publications and practical resources that directly improve animal health practices and inform industry stakeholders across Canada.
-  - role: Postdoctoral research fellow
+    summary: Recherche appliquée en santé animale et publique et transfert de connaissances, produisant des publications scientifiques et des ressources pratiques qui améliorent directement les pratiques de santé animale et informent les intervenants de l'industrie.
+  - role: Chercheuse postdoctorale
     org: University of British Columbia
     start: 2020-05-01
     end: 2024-04-30
-    summary: "Collaborating on the project *Integrating genomic approaches to improve dairy cattle resilience* with [Ronaldo Cerri](https://www.landfood.ubc.ca/ronaldo-cerri/)."
-  - role: Research advisor
+    summary: "Collaborating au projet *Integrating genomic approaches to improve dairy cattle resilience* avec [Ronaldo Cerri](https://www.landfood.ubc.ca/ronaldo-cerri/)."
+  - role: Conseillère de recherche
     org: Université de Montréal
     start: 2021-07-01
     end: 2022-04-30
-    summary: "Collaborating on the project *Improving Early Warning of Emerging Threats* with [Hélène Carabin](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in29803/sg/H%C3%A9l%C3%A8ne%20Carabin/), [Erin Rees](https://grezosp.com/recherche/membres/membres-chercheurs/erin-e-rees/), [Christina Zarowski](https://espum.umontreal.ca/en/lespum/equipe/personnel-enseignant/professeur/in/in18897/sg/Christina%20Zarowsky/), and [Suzanne Hindmarch](https://www.unb.ca/faculty-staff/directory/arts-fr-political-science/hindmarch-suzanne.html)."
-  - role: Veterinary clinician at the bovine field services clinic
+    summary: "Collaborating au projet *Amélioration de la détection précoce des menaces émergentes* avec [Hélène Carabin](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in29803/sg/H%C3%A9l%C3%A8ne%20Carabin/), [Erin Rees](https://grezosp.com/recherche/membres/membres-chercheurs/erin-e-rees/), [Christina Zarowski](https://espum.umontreal.ca/en/lespum/equipe/personnel-enseignant/professeur/in/in18897/sg/Christina%20Zarowsky/) et [Suzanne Hindmarch](https://www.unb.ca/faculty-staff/directory/arts-fr-political-science/hindmarch-suzanne.html)."
+  - role: Vétérinaire clinicienne à la Clinique ambulatoire bovine
     start: 2011-08-15
     end: 2013-08-31
 
@@ -105,4 +107,5 @@ experience:
     #icon: hero/trophy
 
 user_groups:
-  - Principal investigator
+  - Meet the Team
+  - L'équipe

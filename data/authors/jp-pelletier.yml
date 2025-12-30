@@ -1,0 +1,24 @@
+schema: hugoblox/author/v2
+slug: jp-pelletier
+is_owner: false
+weight: 3
+name:
+  display: Jean-Philippe Pelletier
+  given: JP
+  family: Pelletier
+postnominals:
+  - TSA
+status:
+  icon: 
+role: Technicien en santé animale
+affiliations:
+  - name: Université de Montréal
+    url: https://fmv.umontreal.ca/fmv/
+
+links:
+  - icon: at-symbol
+    url: mailto:jean-philippe.pelletier.4@umontreal.ca
+
+user_groups:
+  - Meet the Team
+  - L'équipe
