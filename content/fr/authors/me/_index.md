@@ -14,7 +14,7 @@ sections:
       text: ""
       button:
         text: En résumé (pdf)
-        url: uploads/resume_fr.pdf
+        url: /uploads/resume_fr.pdf
     design:
       css_class: dark
       background:

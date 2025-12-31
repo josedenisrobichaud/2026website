@@ -57,7 +57,7 @@ education:
     start: 2013-09-01
     end: 2017-02-28
     summary: |
-      "Thèse sur l'*Évaluation des moniteurs d’activité pour la gestion de la reproduction chez les vaches laitières*. Sous la direction de [Stephen LeBlanc](https://ovc.uoguelph.ca/population-medicine/faculty/stephen-leblanc/)."
+      Thèse sur l'*Évaluation des moniteurs d’activité pour la gestion de la reproduction chez les vaches laitières*. Sous la direction de [Stephen LeBlanc](https://ovc.uoguelph.ca/population-medicine/faculty/stephen-leblanc/).
     button:
       text: Thèse
       url: http://hdl.handle.net/10214/10123
@@ -67,7 +67,7 @@ education:
     start: 2011-09-01
     end: 2013-08-31
     summary: |
-      "Mémoire sur l'*Effet d’un traitement intra-utérin de céphapirine sur les performances en reproduction des vaches laitières*. Sous la direction de [Jocelyn Dubuc](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in15946/sg/Jocelyn%20Dubuc/)."
+      Mémoire sur l'*Effet d’un traitement intra-utérin de céphapirine sur les performances en reproduction des vaches laitières*. Sous la direction de [Jocelyn Dubuc](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in15946/sg/Jocelyn%20Dubuc/).
     button:
       text: Mémoire
       url: http://hdl.handle.net/1866/10776
@@ -89,12 +89,12 @@ experience:
     org: University of British Columbia
     start: 2020-05-01
     end: 2024-04-30
-    summary: "Collaborating au projet *Integrating genomic approaches to improve dairy cattle resilience* avec [Ronaldo Cerri](https://www.landfood.ubc.ca/ronaldo-cerri/)."
+    summary: "Collaboration au projet *Integrating genomic approaches to improve dairy cattle resilience* avec [Ronaldo Cerri](https://www.landfood.ubc.ca/ronaldo-cerri/)."
   - role: Conseillère de recherche
     org: Université de Montréal
     start: 2021-07-01
     end: 2022-04-30
-    summary: "Collaborating au projet *Amélioration de la détection précoce des menaces émergentes* avec [Hélène Carabin](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in29803/sg/H%C3%A9l%C3%A8ne%20Carabin/), [Erin Rees](https://grezosp.com/recherche/membres/membres-chercheurs/erin-e-rees/), [Christina Zarowski](https://espum.umontreal.ca/en/lespum/equipe/personnel-enseignant/professeur/in/in18897/sg/Christina%20Zarowsky/) et [Suzanne Hindmarch](https://www.unb.ca/faculty-staff/directory/arts-fr-political-science/hindmarch-suzanne.html)."
+    summary: "Collaboration au projet *Amélioration de la détection précoce des menaces émergentes* avec [Hélène Carabin](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in29803/sg/H%C3%A9l%C3%A8ne%20Carabin/), [Erin Rees](https://grezosp.com/recherche/membres/membres-chercheurs/erin-e-rees/), [Christina Zarowski](https://espum.umontreal.ca/en/lespum/equipe/personnel-enseignant/professeur/in/in18897/sg/Christina%20Zarowsky/) et [Suzanne Hindmarch](https://www.unb.ca/faculty-staff/directory/arts-fr-political-science/hindmarch-suzanne.html)."
   - role: Vétérinaire clinicienne à la Clinique ambulatoire bovine
     start: 2011-08-15
     end: 2013-08-31

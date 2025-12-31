@@ -55,7 +55,7 @@
         {{ end }}
       {{ end }}
       {{/* Sort by weight (ascending) */}}
-      {{ $groupProfiles = sort $groupProfiles "weight" }}
+      {{ $groupProfiles = sort $groupProfiles "weight" "asc" }}
 
       {{ if and $groupProfiles (gt (len $groups) 1) }}
       <div class="w-full mb-4">
@@ -66,7 +66,15 @@
       {{ end }}
 
       <div class="flex justify-center w-full mb-8">
-        <div class="inline-grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <div class="inline-grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3" style="max-width: 900px;">
+          <style>
+            @media (max-width: 640px) {
+              .inline-grid { max-width: 250px !important; }
+            }
+            @media (min-width: 641px) and (max-width: 1024px) {
+              .inline-grid { max-width: 600px !important; }
+            }
+          </style>
           {{ range $profile := $groupProfiles }}
             {{ $avatar := $profile.avatar }}
             {{ $link := printf "/authors/%s/" $profile.slug }}
@@ -75,7 +83,7 @@
               <div class="relative overflow-hidden rounded-2xl bg-white dark:bg-gray-800 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
                 
                 {{ if $avatar }}
-                <a href="{{ $link }}" class="block relative h-64 overflow-hidden">
+                <a href="{{ $link }}" class="block relative overflow-hidden" style="aspect-ratio: 1/1;">
                   {{ $image := $avatar.Fill "400x400 Center webp" }}
                   <img src="{{ $image.RelPermalink }}" 
                        alt="{{ $profile.title }}" 
@@ -155,16 +163,24 @@
     {{ end }}
   {{ else }}
     {{/* Sort by weight (ascending) */}}
-    {{ $allProfiles = sort $allProfiles "weight" }}
+    {{ $allProfiles = sort $allProfiles "weight" "asc" }}
     <div class="flex justify-center w-full mb-8">
-      <div class="inline-grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      <div class="inline-grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3" style="max-width: 900px;">
+        <style>
+            @media (max-width: 640px) {
+              .inline-grid { max-width: 250px !important; }
+            }
+            @media (min-width: 641px) and (max-width: 1024px) {
+              .inline-grid { max-width: 600px !important; }
+            }
+        </style>
         {{ range $profile := $allProfiles }}
           {{ $avatar := $profile.avatar }}
           {{ $link := printf "/authors/%s/" $profile.slug }}
           <div class="group relative">
             <div class="relative overflow-hidden rounded-2xl bg-white dark:bg-gray-800 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
               {{ if $avatar }}
-              <a href="{{ $link }}" class="block relative h-64 overflow-hidden">
+              <a href="{{ $link }}" class="block relative overflow-hidden" style="aspect-ratio: 1/1;">
                 {{ $image := $avatar.Fill "400x400 Center webp" }}
                 <img src="{{ $image.RelPermalink }}" 
                      alt="{{ $profile.title }}" 

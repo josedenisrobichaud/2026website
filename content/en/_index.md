@@ -144,7 +144,7 @@ sections:
         text: Interested in joining our group? We're looking for curious and motivated students.
         button:
           text: View opportunities
-          url: /projects
+          url: /en/projects
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
