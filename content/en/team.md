@@ -14,7 +14,7 @@ sections:
       user_groups:
         - Meet the Team
         - Postdoctoral Researchers
-        - Students
+        - Visiting Students
       sort_by: 'Param.weight'
       sort_ascending: true
       cta:
