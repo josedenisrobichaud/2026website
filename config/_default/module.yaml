@@ -1,3 +1,4 @@
+
 ############################
 ## HUGO MODULES
 ## Install or uninstall themes and plugins here.
@@ -9,18 +10,27 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
 
-# Install any Hugo Blox within the `hugo-blox/blox/` folder
+# Mount Hugo Blox partials and assets
 mounts:
+  # Community partials (HTML)
   - source: hugo-blox/blox/community
     target: layouts/_partials/blox/community/
     includeFiles: '**.html'
+
+  # All-access partials (HTML)
   - source: hugo-blox/blox/all-access
     target: layouts/_partials/blox/
     includeFiles: '**.html'
+
+  # CSS for Blox components
   - source: hugo-blox/blox
     target: assets/dist/community/blox/
     includeFiles: '**.css'
+
+  # Project-specific layouts
   - source: layouts
     target: layouts
+
+  # Project-specific assets
   - source: assets
     target: assets

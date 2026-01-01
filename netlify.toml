@@ -1,3 +1,4 @@
+
 [build]
   command = """
     set -e
@@ -9,7 +10,11 @@
     
     echo "=== Installing dependencies ==="
     pnpm install --verbose --no-frozen-lockfile
-    
+
+    echo "=== Fetching Hugo modules ==="
+    hugo mod get
+    hugo mod tidy
+
     echo "=== Running Hugo build ==="
     hugo --gc --minify -b $URL --logLevel debug --printI18nWarnings --printPathWarnings
     
@@ -19,6 +24,7 @@
     echo "=== Build completed successfully ==="
   """
   publish = "public"
+
 
 [build.environment]
   HUGO_VERSION = "0.152.2"
@@ -33,15 +39,20 @@
 [context.production.environment]
   HUGO_ENV = "production"
 
+
 [context.deploy-preview]
   command = """
     set -e
     echo "=== Deploy Preview Build ==="
     echo "Deploy URL: $DEPLOY_PRIME_URL"
     pnpm install --verbose --no-frozen-lockfile
+    echo "=== Fetching Hugo modules ==="
+    hugo mod get
+    hugo mod tidy
     hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
     pnpm dlx pagefind --source 'public' --verbose
   """
+
 
 [context.branch-deploy]
   command = """
@@ -49,6 +60,9 @@
     echo "=== Branch Deploy Build ==="
     echo "Deploy URL: $DEPLOY_PRIME_URL"
     pnpm install --verbose --no-frozen-lockfile
+    echo "=== Fetching Hugo modules ==="
+    hugo mod get
+    hugo mod tidy
     hugo --gc --minify -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
     pnpm dlx pagefind --source 'public' --verbose
   """

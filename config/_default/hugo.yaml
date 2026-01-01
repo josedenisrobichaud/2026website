@@ -8,6 +8,10 @@ title: ''
 # Website URL
 baseURL: 'https://josedenisrobichaud.com/'
 
+relativeURLs: true
+canonifyURLs: true
+
+
 ############################
 ## LANGUAGE
 ############################
