@@ -8,12 +8,11 @@ design:
 
 sections:
   - block: collection
-    id: papers
     content:
       title: En vedette
       filters:
         folders:
-          - publication
+          - publications
         featured_only: true
     design:
       view: article-grid
@@ -24,8 +23,8 @@ sections:
       title: Publications récentes
       filters:
         folders:
-          - publication_all
-        exclude_featured: true
+          - publications
+        exclude_featured: false
     design:
       view: citation
 

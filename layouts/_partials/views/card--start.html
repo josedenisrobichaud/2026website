@@ -1,1 +1,10 @@
-<div class="container max-w-[65ch] mx-auto grid grid-cols-1 gap-6 my-5">
+<div class="flex justify-center w-full my-5">
+  <div class="inline-grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3" style="max-width: 900px;">
+    <style>
+      @media (max-width: 640px) {
+        .inline-grid { max-width: calc(100vw - 48px) !important; }
+      }
+      @media (min-width: 641px) and (max-width: 1024px) {
+        .inline-grid { max-width: 600px !important; }
+      }
+    </style>

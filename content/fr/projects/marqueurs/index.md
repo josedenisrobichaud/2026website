@@ -1,5 +1,5 @@
 ---
-title: Utilisation de marqueurs bactériens pour prédire l'endométrite chez les vaches laitières
+title: Utilisation de marqueurs bactériens pour prédire l'endométrite 
 date: 2025-08-01
 external_link:
 tags:

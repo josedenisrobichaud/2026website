@@ -13,7 +13,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - publications
         featured_only: true
     design:
       view: article-grid
@@ -24,7 +24,7 @@ sections:
       title: Recent Publications
       filters:
         folders:
-          - publication_all
+          - publications
         exclude_featured: true
     design:
       view: citation
