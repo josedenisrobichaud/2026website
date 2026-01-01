@@ -13,6 +13,6 @@ sections:
       username: jp-pelletier
       text: ""
     design:
-      css_class: dark
+      css_class: light
 
 ---

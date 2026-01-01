@@ -11,7 +11,7 @@ sections:
   - block: collection
     content:
       title: Projets en cours
-      text: 'Nous explorons des questions complexes en santé animale et partageons des solutions pratiques. **Certains projets offrent des opportunités pour les étudiant·es : découvrez-les !**' 
+      text: 'Nous explorons des questions complexes en santé animale et partageons des solutions pratiques. **Certains projets offrent des opportunités pour les étudiant·es : découvrez-les!**' 
       filters:
         folders:
           - projects

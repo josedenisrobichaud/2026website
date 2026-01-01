@@ -13,6 +13,6 @@ sections:
       username: n-barbeau-gregoire
       text: ""
     design:
-      css_class: dark
+      css_class: light
 
 ---

@@ -13,6 +13,6 @@ sections:
       username: sab-lamontagne
       text: ""
     design:
-      css_class: dark
+      css_class: light
 
 ---
