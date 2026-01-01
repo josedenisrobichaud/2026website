@@ -1,6 +1,23 @@
-
 [build]
-  command = "hugo --gc --minify -b $URL && pnpm dlx pagefind --source public --verbose"
+  command = """
+    set -e
+    echo "=== Starting Blog build process ==="
+    echo "Node version: $(node --version)"
+    echo "pnpm version: $(pnpm --version)"
+    echo "Hugo version: $(hugo version)"
+    echo "Go version: $(go version || echo 'Go not available')"
+    
+    echo "=== Installing dependencies ==="
+    pnpm install --verbose --no-frozen-lockfile
+    
+    echo "=== Running Hugo build ==="
+    hugo --gc --minify -b $URL --logLevel debug --printI18nWarnings --printPathWarnings
+    
+    echo "=== Running Pagefind indexing ==="
+    pnpm dlx pagefind --source 'public' --verbose
+    
+    echo "=== Build completed successfully ==="
+  """
   publish = "public"
 
 [build.environment]
@@ -17,13 +34,26 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "pnpm install --verbose --no-frozen-lockfile && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings && pnpm dlx pagefind --source public --verbose"
+  command = """
+    set -e
+    echo "=== Deploy Preview Build ==="
+    echo "Deploy URL: $DEPLOY_PRIME_URL"
+    pnpm install --verbose --no-frozen-lockfile
+    hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
+    pnpm dlx pagefind --source 'public' --verbose
+  """
 
 [context.branch-deploy]
-  command = "pnpm install --verbose --no-frozen-lockfile && hugo --gc --minify -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings && pnpm dlx pagefind --source public --verbose"
+  command = """
+    set -e
+    echo "=== Branch Deploy Build ==="
+    echo "Deploy URL: $DEPLOY_PRIME_URL"
+    pnpm install --verbose --no-frozen-lockfile
+    hugo --gc --minify -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
+    pnpm dlx pagefind --source 'public' --verbose
+  """
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
-
-[plugins.inputs]
-  debug = true
+  [plugins.inputs]
+    debug = true
