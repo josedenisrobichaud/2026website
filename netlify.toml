@@ -1,9 +1,8 @@
 
 # Netlify configuration pour site Hugo + HugoBlox + Pagefind
-# Option A : commandes en ligne (robuste)
 
 [build]
-  command = "pnpm install --verbose --no-frozen-lockfile && hugo mod get && hugo mod tidy && hugo --gc --minify -b $URL --logLevel debug --printI18nWarnings --printPathWarnings && pnpm dlx pagefind --source public --verbose"
+  command = "pnpm install --verbose --no-frozen-lockfile && hugo mod graph && hugo mod get -u && hugo mod tidy && hugo --gc --minify -b $URL && pnpm dlx pagefind --source public --verbose"
   publish = "public"
 
 [build.environment]
