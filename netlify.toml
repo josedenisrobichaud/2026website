@@ -1,5 +1,6 @@
 [build]
-  command = """
+  publish = "public"
+  command = "npm i -g pnpm@10.14.0 && pnpm install && pnpm run build"
     set -e
     echo "=== Starting Blog build process ==="
     echo "Node version: $(node --version)"
@@ -23,7 +24,7 @@
 [build.environment]
   HUGO_VERSION = "0.152.2"
   GO_VERSION = "1.21.5"
-  NODE_VERSION = "22"
+  NODE_VERSION = "22.21.1"
   HUGO_ENABLEGITINFO = "true"
   HUGO_LOG_I18N_WARNINGS = "true"
   HUGO_LOG_WARNINGS = "true"
