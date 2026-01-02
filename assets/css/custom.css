@@ -1,27 +1,40 @@
 
-/* Navbar STICKY corrigée */
+/* ─────────────────────────────────────────────────────────
+   Corriger sticky + neutraliser les ancêtres problématiques
+   ───────────────────────────────────────────────────────── */
+
+/* 1) Sticky solide sur le nav */
 nav[data-te-navbar-ref] {
   position: sticky !important;
   top: 0 !important;
-  z-index: 9999 !important; /* très élevé pour dominer tout le contenu */
-  background-color: var(--color-header-bg, #ffffff);
+  z-index: 9999 !important;           /* surclasse le contenu */
+  background: var(--color-header-bg, #fff);
 }
 
-/* Assure que le header parent ne casse pas sticky */
+/* 2) Le conteneur header ne doit pas casser sticky */
 header, .hb-header, .site-header {
-  overflow: visible !important;
-  position: relative;
-  z-index: 9999;
+  overflow: visible !important;       /* sticky casse si overflow != visible */
+  position: relative;                 /* pour z-index ci-dessous */
+  z-index: 9999;                      /* place le header dans une couche haute */
+  isolation: isolate;                 /* nouveau stacking context contrôlé */
 }
 
-/* Si des sections utilisent transform ou opacity, elles créent un stacking context.
-   On force leur z-index à rester en dessous */
-main, .hb-main, #main, .section, .hero {
+/* 3) Neutraliser les contextes de superposition du contenu */
+main, .hb-main, #main {
+  position: relative;
+  z-index: 0 !important;
+  /* S'il y a des ancêtres avec transform/filter, ils dominent.
+     On isole main pour que son z-index reste sous le header */
+  isolation: isolate;
+}
+
+/* 4) Si des sections ont des z-index excessifs, on les rabaisse */
+.section, .hero, [class*="hero"], [class*="section"] {
   position: relative;
   z-index: 0 !important;
 }
 
-/* Pour les ancres (#section), éviter que la navbar cache le début */
+/* 5) Pour les ancres (#id) qui se cachent sous la navbar */
 html {
-  scroll-padding-top: 72px; /* adapte à la hauteur de la navbar */
+  scroll-padding-top: 72px; /* ajuste à la hauteur de ta navbar */
 }
