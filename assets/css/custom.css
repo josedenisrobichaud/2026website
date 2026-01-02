@@ -1,18 +1,27 @@
 
-/* Navbar STICKY stable, avec z-index élevé */
+/* Navbar STICKY corrigée */
 nav[data-te-navbar-ref] {
   position: sticky !important;
   top: 0 !important;
-  z-index: 50 !important;
+  z-index: 9999 !important; /* très élevé pour dominer tout le contenu */
   background-color: var(--color-header-bg, #ffffff);
 }
 
-/* Évite les parents avec overflow qui cassent sticky */
+/* Assure que le header parent ne casse pas sticky */
 header, .hb-header, .site-header {
-  overflow: visible;
+  overflow: visible !important;
+  position: relative;
+  z-index: 9999;
 }
 
-/* Si le contenu initial se cache derrière la navbar sticky, ajoute un léger offset */
-main, .hb-main, #main {
-  scroll-margin-top: 72px; /* aide pour les ancres (#section) */
+/* Si des sections utilisent transform ou opacity, elles créent un stacking context.
+   On force leur z-index à rester en dessous */
+main, .hb-main, #main, .section, .hero {
+  position: relative;
+  z-index: 0 !important;
+}
+
+/* Pour les ancres (#section), éviter que la navbar cache le début */
+html {
+  scroll-padding-top: 72px; /* adapte à la hauteur de la navbar */
 }
