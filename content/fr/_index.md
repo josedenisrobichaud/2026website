@@ -122,9 +122,9 @@ sections:
       address:
         lines:
           - José Denis-Robichaud
-          - Département de biomédecine vétérinaire
           - Université de Montréal
           - 300, allée des Ursulines
+          - Bureau T-330
           - Rimouski (QC) G5L 3A1
           - Canada
       email: jose.denis-robichaud@umontreal.ca
@@ -143,7 +143,7 @@ sections:
          # url: https://dataverse.harvard.edu/dataverse/josedr
       prospective:
         title: Futurs étudiant·es
-        text: Vous souhaitez rejoindre notre groupe ? Nous recherchons des étudiant·es curieux·ses et motivé·es.
+        text: Vous souhaitez rejoindre notre groupe? Nous recherchons des étudiant·es curieux·ses et motivé·es.
         button:
           text: Voir les opportunités
           url: /projects

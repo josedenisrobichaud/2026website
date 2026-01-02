@@ -120,9 +120,9 @@ sections:
       address:
         lines:
           - José Denis-Robichaud
-          - Département de biomédecine vétérinaire
           - Université de Montréal
           - 300, allée des Ursulines
+          - Bureau T-330
           - Rimouski (QC) G5L 3A1
           - Canada
       email: jose.denis-robichaud@umontreal.ca
