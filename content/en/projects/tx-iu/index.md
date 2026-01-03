@@ -25,7 +25,7 @@ Investigating the interplay between infection and inflammation after calving to 
 * [Jean-Philippe Pelletier]({{< relref "../authors/jp-pelletier" >}}) (animal health technician)
 * [Jean-Philippe Roy](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in14855/sg/Jean-Philippe%20Roy/) (collaborator)
 * [Juan Carlos Arango Sabogal](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in33018/sg/Juan%20Carlos%20Arango%20Sabogal/) (collaborator)
-* [Pablo Valdes Donoso](fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in34586/sg/Pablo%20Valdes%20Donoso/) (collaborator)
+* [Pablo Valdes Donoso](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in34586/sg/Pablo%20Valdes%20Donoso/) (collaborator)
 
 ## In brief
 

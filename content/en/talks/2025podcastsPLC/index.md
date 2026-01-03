@@ -38,12 +38,9 @@ image:
   preview_only: false
 
 links:
-  - icon: milk
-    #icon_pack: fab
-    name: proAction
+  - name: proAction
     url: 'https://www.producteurslaitiers.ca/proaction'
-  - icon: buisness
-    name: ACER consulting
+  - name: ACER consulting
     url: 'https://acerconsult.ca/'
   - icon: microphone
     name: podcasts
