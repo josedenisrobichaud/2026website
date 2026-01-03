@@ -25,7 +25,7 @@ Cet été, je me joindrai à la Faculté de médecine vétérinaire de l'Univers
 
 C'est un grand changement, non seulement sur le plan professionnel, mais aussi sur le plan personnel. Pour la première fois depuis longtemps, je vais m'enraciner. J'échange les aéroports et les lieux temporaires contre un rythme de vie plus stable. Ce moment représente quelque chose d'à la fois touchant et excitant : dire au revoir à la liberté de la route et entrer dans un rôle riche de nouveaux objectifs, de structure et d'une superbe communauté.
 
-Rimouski est une ville magnifique, située sur les rives du fleuve Saint-Laurent, entourée de nature et remplie de gens sympathiques et attentionnés. J'ai hâte de (re)découvrir tout ce que la ville a à offrir et de contribuer à un milieu universitaire dynamique. Dans ce nouveau role, j'enseignerai, je ferai de la recherche et j'établirai de nouvelles relations avec mes étudiants et mes collègues.
+Rimouski est une ville magnifique, située sur les rives du fleuve Saint-Laurent, entourée de nature et remplie de gens sympathiques et attentionnés. J'ai hâte de (re)découvrir tout ce que la ville a à offrir et de contribuer à un milieu universitaire dynamique. Dans ce nouveau rôle, j'enseignerai, je ferai de la recherche et j'établirai de nouvelles relations avec mes étudiants et mes collègues.
 
 Même si je garderai toujours l'esprit nomade, je suis prête pour ce changement. Le moment me semble venu de construire quelque chose de plus durable, de m'investir à fond, de rester plus longtemps et de me développer dans de nouvelles directions.
 

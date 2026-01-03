@@ -1,5 +1,5 @@
 ---
-title: 'DFC|PLC: Chemins vers l`Excellence à la Ferme (français et anglais)'
+title: "DFC|PLC: Chemins vers l'Excellence à la Ferme (français et anglais)"
 
 event: Balados - Les Producteurs Laitiers du Canada
 event_url: https://on.soundcloud.com/1cGIQQWq7EN7yYlbA4

@@ -1,5 +1,5 @@
 ---
-title: Développement de d'outils pour la gestion de la santé animale
+title: Développement d'outils pour la gestion de la santé animale
 date: 2025-12-28
 external_link: ''
 tags:

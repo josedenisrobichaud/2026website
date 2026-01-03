@@ -13,7 +13,7 @@ authors:
 
 tags:
   - Santé utérine
-  - Vaches laitères
+  - Vaches laitières
   - Bas-Saint-Laurent
   - Microbiote
   - Fertilité
@@ -23,7 +23,7 @@ share: FALSE
 
 Depuis novembre, notre équipe a débuté un projet de recherche passionnant sur la santé utérine des vaches laitières. L'objectif ? Mieux comprendre le rôle du microbiote du tractus reproducteur dans la santé utérine et la fertilité des troupeaux laitiers.  
 
-Ce [projet]({{< relref "../projects/marqueurs" >}}), mené par Marcio Costa, vise à établir des liens entre la composition du microbiote et la performance reproductive des vaches. En identifiant les profils microbiens associés à une bonne santé utérine, nous espérons développer des outils prédictifs qui pourront aider les producteur·trice   s à optimiser la gestion de la reproduction dans leurs fermes.  
+Ce [projet]({{< relref "../projects/marqueurs" >}}), mené par Marcio Costa, vise à établir des liens entre la composition du microbiote et la performance reproductive des vaches. En identifiant les profils microbiens associés à une bonne santé utérine, nous espérons développer des outils prédictifs qui pourront aider les producteur·trices à optimiser la gestion de la reproduction dans leurs fermes.  
 
 Trois fermes laitières de la région ont déjà participé à cette première phase de collecte d'échantillons. Nous sommes ravies de l'accueil chaleureux et de la collaboration des producteur·trices, qui comprennent l'importance de cette recherche pour l'avenir de l'industrie laitière. Leur participation active et leur intérêt pour le projet sont essentiels au succès de cette étude.  
 

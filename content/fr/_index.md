@@ -87,7 +87,7 @@ sections:
           #funding: Fondation AGRIA
 
         - name: Une Seule Santé
-          description: Amélioration des diagnostics, la gestion responsable des antimicrobiens et le bien-être des producteurs en production laitière
+          description: Amélioration des diagnostics, de la gestion responsable des antimicrobiens et du bien-être des producteurs en production laitière
           image: projects/one-health.jpg
           status: planification
           topics:
@@ -142,7 +142,7 @@ sections:
         #- icon: academicons/dataverse
          # url: https://dataverse.harvard.edu/dataverse/josedr
       prospective:
-        title: Futurs étudiant·es
+        title: Futur·es étudiant·es
         text: Vous souhaitez rejoindre notre groupe? Nous recherchons des étudiant·es curieux·ses et motivé·es.
         button:
           text: Voir les opportunités
