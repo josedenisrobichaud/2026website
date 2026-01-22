@@ -1,7 +1,7 @@
 ---
 title: Biosecurity and herd health management practices on Canadian dairy farms
 authors:
-- ' me'
+- _me
 - DF Kelton
 - CA Bauman
 - HW Barkema

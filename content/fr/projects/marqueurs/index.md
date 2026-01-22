@@ -21,7 +21,7 @@ Utilisation du séquençage d'ADN avancé pour identifier les signatures bactér
 * [Marcio Costa](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in28256/sg/Marcio%20Costa/) (chercheur principal)
 * [Hélène Lardé](https://fmv.umontreal.ca/faculte/departements/biomedecine/corps-professoral/fiche/in/in37531/sg/H%C3%A9l%C3%A8ne%20Lard%C3%A9/) (collaboratrice)
 * [Isabella Nicola](https://recherche.umontreal.ca/english/our-researchers/professors-directory/researcher/is/in36880/) (collaboratrice)
-* [José Denis-Robichaud]({{< relref "../authors/me" >}}) (collaboratrice)
+* [José Denis-Robichaud]({{< relref "../authors/_me" >}}) (collaboratrice)
 * [Jean-Philippe Pelletier]({{< relref "../authors/jp-pelletier" >}}) (technicien en santé animale)
 * [Sabrina Lamontagne]({{< relref "../authors/sab-lamontagne" >}}) (technicienne en santé animale)
 

@@ -3,7 +3,7 @@ title: Performance of automated activity monitoring systems used in combination 
   timed artificial insemination compared to timed artificial insemination only in
   early lactation in dairy cows
 authors:
-- ' me'
+- _me
 - RLA Cerri
 - A Jones-Bitton
 - SJ Leblanc

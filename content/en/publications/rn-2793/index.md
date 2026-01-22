@@ -1,7 +1,7 @@
 ---
 title: Is prolonged luteal phase a problem in lactating Holstein cows?
 authors:
-- ' me'
+- _me
 - AP Oliveira
 - A Sica
 - S Soriano

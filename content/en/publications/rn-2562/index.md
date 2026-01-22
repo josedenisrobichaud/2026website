@@ -2,7 +2,7 @@
 title: Randomized clinical trial of intrauterine cephapirin infusion in dairy cows
   for the treatment of purulent vaginal discharge and cytological endometritis
 authors:
-- ' me'
+- _me
 - J Dubuc
 date: '2015-01-01'
 publishDate: '2025-12-26T01:35:52.541723Z'

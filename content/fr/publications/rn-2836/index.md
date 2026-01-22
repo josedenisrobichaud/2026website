@@ -3,7 +3,7 @@ title: 'Linking Opinions Shared on Social Media About COVID-19 Public Health Mea
   to Adherence: Repeated Cross-Sectional Surveys of Twitter Use in Canada'
 featured: true
 authors:
-- ' me'
+- _me
 - EE Rees
 - P Daley
 - C Zarowsky

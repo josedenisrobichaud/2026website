@@ -2,7 +2,7 @@
 title: Methods used by Canadian dairy farmers for on-farm euthanasia and the emotions
   associated with the decision and the practice of euthanasia
 authors:
-- ' me'
+- _me
 - M Rousseau
 - M Denicourt
 - M Villettaz-Robichaud

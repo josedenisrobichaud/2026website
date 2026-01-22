@@ -23,7 +23,7 @@ Enquête sur la façon dont l'agriculture de précision affecte la reproduction 
 Nous recrutons actuellement des étudiants à la maîtrise et/ou au doctorat pour ce projet. Si vous êtes intéressé par la recherche en méthodes mixtes à l'intersection de la technologie, de la santé animale et d'Une Seule Santé, veuillez nous contacter.
 
 ## Équipe
-* [José Denis-Robichaud]({{< relref "../authors/me" >}}) (chercheuse principale)
+* [José Denis-Robichaud]({{< relref "../authors/_me" >}}) (chercheuse principale)
 * [Stephen LeBlanc](https://ovc.uoguelph.ca/population-medicine/faculty/stephen-leblanc) (collaborateur)
 * [Geneviève Brisson](https://www.uqar.ca/professeurs/brisson-genevieve/) (collaboratrice)
 

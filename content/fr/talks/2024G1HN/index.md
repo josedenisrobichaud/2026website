@@ -25,7 +25,7 @@ all_day: true
 publishDate: '2017-01-01T00:00:00Z'
 
 authors:
-  - me
+  - _me
 
 tags: [Une Seule Santé, communication]
 

@@ -3,7 +3,7 @@ title: A dairy herd-level study of postpartum diseases and their association wit
   reproductive performance and culling
 authors:
 - J Dubuc
-- ' me'
+- _me
 date: '2017-01-01'
 publishDate: '2025-12-26T01:35:52.673075Z'
 publication_types:

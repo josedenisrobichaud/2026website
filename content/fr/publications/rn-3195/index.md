@@ -4,7 +4,7 @@ title: Tail chalk improved detection of true estrus alerts from an automated act
 authors:
 - JCS Marques
 - TA Burnett
-- ' me'
+- _me
 - AML Madureira
 - WA Gomes
 - AM Bega

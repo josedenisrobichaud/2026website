@@ -9,7 +9,7 @@ image:
   caption: 'par [**Jacki Bruniquel**](https://jackibruniquel.com/)'
 
 authors:
-  - me
+  - _me
 
 tags:
   - Professeure

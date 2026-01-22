@@ -3,7 +3,7 @@ title: Association between genomic daughter pregnancy rates and reproductive par
   in Holstein dairy cattle
 authors:
 - AML Madureira
-- ' me'
+- _me
 - TG Guida
 - RLA Cerri
 - JLM Vasconcelos

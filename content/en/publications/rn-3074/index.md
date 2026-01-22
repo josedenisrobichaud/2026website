@@ -4,7 +4,7 @@ title: The effect of progesterone concentrations during superovulation of Holste
 authors:
 - JCS Marques
 - JPO Maciel
-- ' me'
+- _me
 - RS Conceicao
 - AM Bega
 - S Moore

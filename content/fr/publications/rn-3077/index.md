@@ -6,7 +6,7 @@ authors:
 - TA Burnett
 - AML Madureira
 - BF Silper
-- ' me'
+- _me
 - SJ Leblanc
 - RF Cooke
 - JLM Vasconcelos

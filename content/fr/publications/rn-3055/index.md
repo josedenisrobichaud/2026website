@@ -4,7 +4,7 @@ title: Validity of purulent vaginal discharge, esterase, luminometry, and three 
   analysis
 featured: true
 authors:
-- ' me'
+- _me
 - N Barbeau-Gregoire
 - M-L Gauthier
 - S Dufour

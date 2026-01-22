@@ -2,7 +2,7 @@
 title: Professional characteristics, attitudes, and practices associated with stress
   and quality of life among Canadian animal health workers
 authors:
-- ' me'
+- _me
 - N Millar
 - V Hongoh
 - H Carabin

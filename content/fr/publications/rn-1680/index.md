@@ -4,7 +4,7 @@ title: 'Prevalence of shedding and antibody to Coxiella burnetii in post-partum 
   study'
 authors:
 - M-E Turcotte
-- ' me'
+- _me
 - J Dubuc
 - J Harel
 - D Tremblay

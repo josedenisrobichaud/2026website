@@ -1,7 +1,7 @@
 ---
 title: Canadian dairy farmers' perception of the efficacy of biosecurity practices
 authors:
-- ' me'
+- _me
 - DF Kelton
 - CA Bauman
 - HW Barkema

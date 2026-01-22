@@ -2,7 +2,7 @@
 title: Association between the Presence of Intrauterine <i>Escherichia coli<i/> Virulence
   Genes and Subsequent Reproductive Tract Disease in Postpartum Dairy Cows
 authors:
-- ' me'
+- _me
 - JM Fairbrother
 - FN Kasse
 - J Dubuc

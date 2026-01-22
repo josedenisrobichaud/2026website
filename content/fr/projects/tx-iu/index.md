@@ -18,7 +18,7 @@ image:
 
 ## Équipe
 
-* [José Denis-Robichaud]({{< relref "../authors/me" >}}) (chercheuse principale)
+* [José Denis-Robichaud]({{< relref "../authors/_me" >}}) (chercheuse principale)
 * [Jocelyn Dubuc](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in15946/sg/Jocelyn%20Dubuc/) (collaborateur)
 * [Nicolas Barbeau-Grégoire]({{< relref "../authors/n-barbeau-gregoire" >}}) (étudiant gradué)
 * [Marie-Lou Gauthier](https://cdvum.ca/personnel-et-laboratoires/laboratoire-de-bacteriologie/) (collaboratrice)

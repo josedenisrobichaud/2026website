@@ -4,7 +4,7 @@ title: Validation of a leg-mounted pedometer for the measurement of steps in lac
 authors:
 - JCS Marques
 - TA Burnett
-- ' me'
+- _me
 - AML Madureira
 - RLA Cerri
 date: '2024-01-01'

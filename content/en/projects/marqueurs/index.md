@@ -21,7 +21,7 @@ Using advanced DNA sequencing to identify bacterial signatures that forecast ute
 * [Marcio Costa](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in28256/sg/Marcio%20Costa/) (principal investigator)
 * [Hélène Lardé](https://fmv.umontreal.ca/faculte/departements/biomedecine/corps-professoral/fiche/in/in37531/sg/H%C3%A9l%C3%A8ne%20Lard%C3%A9/) (collaborator)
 * [Isabella Nicola](https://recherche.umontreal.ca/english/our-researchers/professors-directory/researcher/is/in36880/) (collaborator)
-* [José Denis-Robichaud]({{< relref "../authors/me" >}}) (collaborator)
+* [José Denis-Robichaud]({{< relref "../authors/_me" >}}) (collaborator)
 * [Jean-Philippe Pelletier]({{< relref "../authors/jp-pelletier" >}}) (animal health technician)
 * [Sabrina Lamontagne]({{< relref "../authors/sab-lamontagne" >}}) (animal health technician)
 

@@ -2,7 +2,7 @@
 title: Validity of luminometry and bacteriological tests for diagnosing intramammary
   infection at dry-off in dairy cows
 authors:
-- ' me'
+- _me
 - N Barbeau-Gregoire
 - M-L Gauthier
 - S Dufour

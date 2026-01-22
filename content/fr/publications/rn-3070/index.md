@@ -5,7 +5,7 @@ authors:
 - J Dubuc
 - JC Arango-Sabogal
 - V Fauteux
-- ' me'
+- _me
 - S Buczinski
 date: '2025-01-01'
 publishDate: '2025-12-26T01:35:52.666153Z'

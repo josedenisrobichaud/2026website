@@ -9,7 +9,7 @@ image:
   caption: 'Sabrina, Hélène et José'
 
 authors:
-  - me
+  - _me
 
 tags:
   - Santé utérine

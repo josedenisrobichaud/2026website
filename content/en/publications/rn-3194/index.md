@@ -4,7 +4,7 @@ title: Progesterone concentrations during superovulation and estrous behavior af
 authors:
 - JCS Marques
 - JPO Maciel
-- ' me'
+- _me
 - RS Conceicao
 - S Moore
 - T Piau

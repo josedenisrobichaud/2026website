@@ -3,7 +3,7 @@ title: 'Technical note: Validation of an in-house bovine serum enzyme immunoassa
   for progesterone measurement'
 authors:
 - A Nadalin
-- ' me'
+- _me
 - AML Madureira
 - TA Burnett
 - J Bauer

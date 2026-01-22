@@ -3,7 +3,7 @@ title: Randomized controlled trial assessing the impact of a combined treatment 
   insulin glargine and propylene glycol on the resolution of hyperketonemia and milk
   production in postpartum dairy cows
 authors:
-- ' me'
+- _me
 - S Buczinski
 - V Fauteux
 - J Dubuc

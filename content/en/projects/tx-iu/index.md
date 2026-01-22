@@ -18,7 +18,7 @@ Investigating the interplay between infection and inflammation after calving to 
 
 ## Team
 
-* [José Denis-Robichaud]({{< relref "../authors/me" >}}) (principal investigator)
+* [José Denis-Robichaud]({{< relref "../authors/_me" >}}) (principal investigator)
 * [Jocelyn Dubuc](https://fmv.umontreal.ca/etudes/personnel-enseignant/fiche/in/in15946/sg/Jocelyn%20Dubuc/) (collaborator)
 * [Nicolas Barbeau-Grégoire]({{< relref "../authors/n-barbeau-gregoire" >}}) (graduate student)
 * [Marie-Lou Gauthier](https://cdvum.ca/personnel-et-laboratoires/laboratoire-de-bacteriologie/) (collaborator)

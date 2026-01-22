@@ -9,7 +9,7 @@ authors:
 - D Bienzle
 - S-K Bisson
 - M-C Blais
-- ' me'
+- _me
 - C Forest
 - V Grenier St-Sauveur
 - M Koszegi

@@ -6,7 +6,7 @@ event_url: https://on.soundcloud.com/1cGIQQWq7EN7yYlbA4
 
 #location: Hugo Blox Builder HQ
 #address:
- # street: 450 Serra Mall
+ # street: 450 Serra _Mall
   #city: Stanford
   #region: CA
   #postcode: '94305'
@@ -25,7 +25,7 @@ all_day: true
 publishDate: '2017-01-01T00:00:00Z'
 
 authors:
-  - me
+  - _me
 
 tags: [Vaches Laitières]
 

@@ -3,7 +3,7 @@ title: Herd-level associations between the proportion of elevated prepartum none
   fatty acid concentrations and postpartum diseases, reproduction, or culling on dairy
   farms
 authors:
-- ' me'
+- _me
 - I Nicola
 - H Chupin
 - J-P Roy

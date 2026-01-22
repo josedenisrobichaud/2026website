@@ -2,7 +2,7 @@
 title: 'One Health communication channels: a qualitative case study of swine influenza
   in Canada in 2020'
 authors:
-- ' me'
+- _me
 - S Hindmarch
 - NN Nswal
 - JC Mutabazi

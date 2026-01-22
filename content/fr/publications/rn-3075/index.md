@@ -3,7 +3,7 @@ title: Circulating progesterone at insemination and accessory spermatozoa are as
   with fertilization and embryo quality five or six days post insemination in dairy
   cattle
 authors:
-- ' me'
+- _me
 - ACC Fernandes
 - JEP Santos
 - RLA Cerri

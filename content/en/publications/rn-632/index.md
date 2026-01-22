@@ -2,7 +2,7 @@
 title: Performance of a milk leukocyte differential test for decision-making in a
   selective dry cow therapy program | The Bovine Practitioner
 authors:
-- ' me'
+- _me
 - RA Almeida
 - S Ivey
 - RR Rodriguez

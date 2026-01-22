@@ -2,7 +2,7 @@
 title: Accuracy of milk ketone bodies from flow-injection analysis for the diagnosis
   of hyperketonemia in dairy cows
 authors:
-- ' me'
+- _me
 - J Dubuc
 - D Lefebvre
 - L Descoteaux

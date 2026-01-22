@@ -4,7 +4,7 @@ title: 'Endometrial gene expression of lactating Holstein cows: Impact of pre-es
 authors:
 - JCS Marques
 - JPO Maciel
-- ' me'
+- _me
 - AML Madureira
 - RS Conceicao
 - S Moore

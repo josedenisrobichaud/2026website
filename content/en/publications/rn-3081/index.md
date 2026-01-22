@@ -2,7 +2,7 @@
 title: Assessment of the evolution of the proportion of respiratory and enteric pathogens
   and diseases in pre-weaned unvaccinated dairy heifers from Quebec, Canada
 authors:
-- ' me'
+- _me
 - M-ET Cleroux
 - S Buczinski
 - M-L Gauthier

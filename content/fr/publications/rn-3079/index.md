@@ -7,7 +7,7 @@ authors:
 - P Pham-Duc
 - S Dang-Xuan
 - H Le-Thi
-- ' me'
+- _me
 - H Nguyen-Viet
 - TTH Le
 - D Grace

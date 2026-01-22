@@ -1,7 +1,7 @@
 ---
 title: Accuracy of a new milk strip cow-side test for diagnosis of hyperketonemia
 authors:
-- ' me'
+- _me
 - L Descoteaux
 - J Dubuc
 date: '2011-01-01'

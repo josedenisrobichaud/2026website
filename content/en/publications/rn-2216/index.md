@@ -5,7 +5,7 @@ authors:
 - L Delesalle
 - ML Sadoine
 - S Mediouni
-- ' me'
+- _me
 - K Zinszer
 - C Zarowsky
 - C Aenishaenslin

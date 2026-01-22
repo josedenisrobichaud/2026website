@@ -1,7 +1,7 @@
 ---
 title: Survey of reproduction management on Canadian dairy farms
 authors:
-- ' me'
+- _me
 - RLA Cerri
 - A Jones-Bitton
 - SJ Leblanc

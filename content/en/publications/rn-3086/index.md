@@ -2,7 +2,7 @@
 title: Pilot Study to Evaluate the Association Between the Length of the Luteal Phase
   and Estrous Activity Detected by Automated Activity Monitoring in Dairy Cows
 authors:
-- ' me'
+- _me
 - SJ Leblanc
 - A Jones-Bitton
 - BF Silper

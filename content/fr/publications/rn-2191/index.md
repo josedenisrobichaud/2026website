@@ -2,7 +2,7 @@
 title: Association between Pet Ownership and Mental Health and Well-Being of Canadians
   Assessed in a Cross-Sectional Study during the COVID-19 Pandemic
 authors:
-- ' me'
+- _me
 - C Aenishaenslin
 - L Richard
 - M Desmarchelier

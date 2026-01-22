@@ -2,7 +2,7 @@
 title: Dairy producers' attitudes toward reproductive management and performance on
   Canadian dairy farms
 authors:
-- ' me'
+- _me
 - RLA Cerri
 - A Jones-Bitton
 - SJ Leblanc

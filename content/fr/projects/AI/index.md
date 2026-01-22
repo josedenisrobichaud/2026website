@@ -20,7 +20,7 @@ Développement d'outils d'aide à la décision pratiques pour supporter les vét
 
 ## Équipe
 
-* [José Denis-Robichaud]({{< relref "../authors/me" >}}) (chercheuse principale)
+* [José Denis-Robichaud]({{< relref "../authors/_me" >}}) (chercheuse principale)
 
 ## En bref
 Les fermes laitières modernes génèrent d'énormes quantités de données provenant de capteurs, de logiciels de gestion et de suivi de routine. Cependant, la transformation de ces données en informations exploitables demeure un défi pour les vétérinaires et les producteurs. Ce projet vise à développer des modèles d'apprentissage automatique et des outils d'aide à la décision qui intègrent plusieurs sources de données pour faciliter la gestion de la santé animale. En collaborant étroitement avec les utilisateurs finaux tout au long du développement, nous cherchons à créer des outils pratiques qui s'intègrent aux flux de travail existants et qui soutiennent réellement la prise de décision à la ferme pour des enjeux tels que la détection de maladies, le moment opportun des traitements et les stratégies de soins préventifs.

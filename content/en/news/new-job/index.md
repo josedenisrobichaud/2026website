@@ -10,7 +10,7 @@ image:
 
 
 authors:
-  - me
+  - _me
 
 tags:
   - Academic

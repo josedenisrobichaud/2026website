@@ -2,7 +2,7 @@
 title: Gap between producers and veterinarians regarding biosecurity on Quebec dairy
   farms
 authors:
-- ' me'
+- _me
 - DF Kelton
 - CA Bauman
 - HW Barkema

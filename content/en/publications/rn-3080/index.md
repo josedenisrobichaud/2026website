@@ -2,7 +2,7 @@
 title: Randomized controlled trial of pegbovigrastim as an adjunct therapy for naturally
   occurring severe clinical mastitis cases in dairy cows
 authors:
-- ' me'
+- _me
 - M Christophe
 - J-P Roy
 - S Buczinski

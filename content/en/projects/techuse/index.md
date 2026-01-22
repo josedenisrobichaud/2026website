@@ -23,7 +23,7 @@ Investigating how smart farming technologies affect dairy cow reproduction and h
 We are currently recruiting MSc and/or PhD students for this project. If you're interested in mixed methods research at the intersection of technology, animal health, and One Health, please get in touch.
 
 ## Team
-* [José Denis-Robichaud]({{< relref "../authors/me" >}}) (principal investigator)
+* [José Denis-Robichaud]({{< relref "../authors/_me" >}}) (principal investigator)
 * [Stephen LeBlanc](https://ovc.uoguelph.ca/population-medicine/faculty/stephen-leblanc) (collaborator)
 * [Geneviève Brisson](https://www.uqar.ca/professeurs/brisson-genevieve/) (collaborator)
 

@@ -2,7 +2,7 @@
 title: 'Short communication: Accuracy of estimation of lameness, injury, and cleanliness
   prevalence by dairy farmers and veterinarians'
 authors:
-- ' me'
+- _me
 - DF Kelton
 - V Fauteux
 - M Villettaz-Robichaud
