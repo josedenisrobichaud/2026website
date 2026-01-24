@@ -120,7 +120,7 @@
   {{ with $bio_content }}
   <div class="pt-2 px-4 d-flex justify-content-center prose prose-slate lg:prose-xl dark:prose-invert">
     <div class="bio-text" {{ with $block.design.biography.style }}{{ (printf "style=\"%s\"" .) | safe.HTMLAttr }}{{end}}>
-      {{ . }}
+      {{ . | markdownify }}
     </div>
   </div>
   {{ end }}
