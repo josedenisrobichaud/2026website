@@ -77,7 +77,7 @@
           </style>
           {{ range $profile := $groupProfiles }}
             {{ $avatar := $profile.avatar }}
-            {{ $link := printf "/authors/%s/" $profile.slug }}
+            {{ $link := printf "/authors/%s/" $profile.slug | relLangURL }}
             
             <div class="group relative">
               <div class="relative overflow-hidden rounded-2xl bg-white dark:bg-gray-800 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
@@ -176,7 +176,7 @@
         </style>
         {{ range $profile := $allProfiles }}
           {{ $avatar := $profile.avatar }}
-          {{ $link := printf "/authors/%s/" $profile.slug }}
+          {{ $link := printf "/authors/%s/" $profile.slug | relLangURL }}
           <div class="group relative">
             <div class="relative overflow-hidden rounded-2xl bg-white dark:bg-gray-800 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
               {{ if $avatar }}

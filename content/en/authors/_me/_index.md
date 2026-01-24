@@ -10,7 +10,7 @@ design:
 sections:
   - block: resume-biography
     content:
-      username: _me
+      username: me
       text: "As a specialist in veterinary preventive medicine with expertise in epidemiology and biostatistics, I focus on applying the One Health approach across various contexts — from animal population health to public health. I’m currently a professor in veterinary livestock management at the Faculté de médecine vétérinaire, Université de Montréal (Rimouski campus), where I have the pleasure of teaching passionate students and leading exciting research projects."
       button:
         text: In a nutshell (pdf)
