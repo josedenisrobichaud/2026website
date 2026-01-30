@@ -12,10 +12,14 @@ sections:
     content:
       username: sab-lamontagne
       text: "   
-      * **Degree**: Animal Health Technician from the Cégep de La Pocatière
-      * **With the team since 2025**
-      * **Professional interests**: large animals 
-      * **Pets**: 🐕 Charlotte and  🐎 Poupou
+      * **Degree**: Animal Health Technician from the Cégep de La Pocatière  
+      
+      * **With the team since 2025**  
+      
+      * **Professional interests**: large animals  
+      
+      * **Pets**: 🐕 Charlotte and  🐎 Poupou  
+      
       * **Interesting fact**: Shortly after joining the team, Sabrina demonstrated her skills and determination by learning how to take uterine samples (dairy cows) in record time!
   "
     design:
