@@ -20,7 +20,7 @@ sections:
       
       * **Pets**: 🐕 Charlotte and  🐎 Poupou  
       
-      * **Interesting fact**: Shortly after joining the team, Sabrina demonstrated her skills and determination by learning how to take uterine samples (dairy cows) in record time!
+      * **Fun fact**: Shortly after joining the team, Sabrina demonstrated her skills and determination by learning how to take uterine samples (dairy cows) in record time!
   "
     design:
       css_class: light

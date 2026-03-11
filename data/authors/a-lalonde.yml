@@ -1,0 +1,20 @@
+schema: hugoblox/author/v1
+slug: a-lalonde
+is_owner: false
+name:
+  display: Axelle Lalonde
+  given: Axelle
+  family: Lalonde
+status:
+  icon: 
+affiliations:
+  - name: Institut Agro Montpellier (France)
+    url: https://www.institut-agro-montpellier.fr/
+
+#links:
+ # - icon: at-symbol
+  #  url: mailto:nicolas.barbeau-gregoire@umontreal.ca
+
+user_groups:
+  - Stagiaires
+  - Interns

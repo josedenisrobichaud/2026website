@@ -18,7 +18,7 @@ sections:
       
       * **Professional interests**: large animals  
       
-      * **Interesting fact**: In addition to being an excellent technician, Jean-Philippe is also a talented butcher — 🥩 yum!
+      * **Fun fact**: In addition to being an excellent technician, Jean-Philippe is also a talented butcher — 🥩 yum!
 "
     design:
       css_class: light

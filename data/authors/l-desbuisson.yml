@@ -1,0 +1,20 @@
+schema: hugoblox/author/v1
+slug: a-lalonde
+is_owner: false
+name:
+  display: Louise Desbuisson
+  given: Louise
+  family: Desbuisson
+status:
+  icon: 
+affiliations:
+  - name: ENVT (France)
+    url: https://envt.fr/ 
+
+#links:
+ # - icon: at-symbol
+  #  url: mailto:nicolas.barbeau-gregoire@umontreal.ca
+
+user_groups:
+  - Stagiaires
+  - Interns

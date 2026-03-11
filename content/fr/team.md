@@ -13,7 +13,7 @@ sections:
       title: ''
       user_groups:
         - L'équipe
-        - Chercheur·euses
+        - Stagiaires
         - Étudiant·es
       sort_by: 'Param.weight'
       sort_ascending: true
