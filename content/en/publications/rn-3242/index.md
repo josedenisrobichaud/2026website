@@ -5,7 +5,7 @@ authors:
 - H Carter
 - DL Renaud
 - E Morabito
-- J Denis-Robichaud
+- _me
 - J-P Roy
 - SJ Leblanc
 - C Ritter

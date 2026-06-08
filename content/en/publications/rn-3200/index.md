@@ -4,7 +4,7 @@ title: 'Predicting local COVID-19 emergences: A time-series classification appro
 authors:
 - EE Rees
 - M Sotoodeh
-- J Denis-Robichaud
+- _me
 - H Carabin
 - SD Montigny
 date: '2026-01-01'

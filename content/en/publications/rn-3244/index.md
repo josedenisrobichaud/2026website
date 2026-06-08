@@ -6,7 +6,7 @@ authors:
 - JCS Marques
 - S Moore
 - PLJ Monteiro
-- J Denis-Robichaud
+- _me
 - WA Gomes
 - TA Burnett
 - AML Madureira
