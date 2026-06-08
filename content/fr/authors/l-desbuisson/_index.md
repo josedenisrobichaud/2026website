@@ -16,7 +16,7 @@ sections:
       
       * **Stagiaire en 2026**  
       
-      * **Intérêts professionnels** : médecine des ruminants et des équidés
+      * **Intérêts professionnels** : Médecine des ruminants et des équidés
       
       * **Animaux de compagnie** : 🐈 Winnie «Wiwi» et 🐎 Dark Vador «Darky» de Circée
       

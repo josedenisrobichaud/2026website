@@ -16,7 +16,7 @@ sections:
       
       * **Avec l'équipe depuis 2025**  
       
-      * **Intérêts professionnels** : grands animaux  
+      * **Intérêts professionnels** : Grands animaux  
       
       * **Animaux de compagnie** : 🐕 Charlotte et  🐎 Poupou  
       

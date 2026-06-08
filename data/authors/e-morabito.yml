@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: E Morabito
+is_owner: false
+name:
+  display: Emily Morabito
+  given: Emily
+  family: Morabito
+
+user_groups:
+  - Collaborator

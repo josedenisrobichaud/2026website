@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: PLJ Monteiro
+is_owner: false
+name:
+  display: Pedro Monteiro
+  given: Pedro
+  family: Monteiro
+
+user_groups:
+  - Collaborator

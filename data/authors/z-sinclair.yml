@@ -1,0 +1,20 @@
+schema: hugoblox/author/v1
+slug: z-sinclair
+is_owner: false
+name:
+  display: Zachary Sinclair
+  given: Zachary
+  family: Sinclair
+status:
+  icon: 
+affiliations:
+  - name: FMV, Université de Montréal
+    url: https://fmv.umontreal.ca/fmv/
+
+#links:
+ # - icon: at-symbol
+  #  url: mailto:nicolas.barbeau-gregoire@umontreal.ca
+
+user_groups:
+  - Stagiaires
+  - Interns

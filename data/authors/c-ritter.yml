@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: C Ritter
+is_owner: false
+name:
+  display: Caroline Ritter
+  given: Caroline
+  family: Ritter
+
+user_groups:
+  - Collaborator

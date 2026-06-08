@@ -16,7 +16,7 @@ sections:
       
       * **Intern in 2026**  
       
-      * **Professional interests** : ruminant and equine medicine
+      * **Professional interests** : Ruminant and equine medicine
       
       * **Pets** : 🐈 Winnie «Wiwi» and 🐎 Dark Vador «Darky» de Circée
       

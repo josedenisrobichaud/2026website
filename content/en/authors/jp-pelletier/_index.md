@@ -16,7 +16,7 @@ sections:
       
       * **Collaborations since 2011**  
       
-      * **Professional interests**: large animals  
+      * **Professional interests**: Livestock  
       
       * **Fun fact**: In addition to being an excellent technician, Jean-Philippe is also a talented butcher — 🥩 yum!
 "

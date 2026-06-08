@@ -16,7 +16,7 @@ sections:
       
       * **With the team since 2025**  
       
-      * **Professional interests**: large animals  
+      * **Professional interests**: Large animals  
       
       * **Pets**: 🐕 Charlotte and  🐎 Poupou  
       

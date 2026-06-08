@@ -16,7 +16,7 @@ sections:
       
       * **Intern in 2026**  
       
-      * **Professional interests** : livestock
+      * **Professional interests** : Livestock
       
       * **Pets** : 🐈 Ben et Tequila, 🐇 Rubychou and 🐎 Dakar"
       

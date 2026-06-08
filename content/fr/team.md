@@ -15,6 +15,7 @@ sections:
         - L'équipe
         - Stagiaires
         - Étudiant·es
+        - Alumni
       sort_by: 'Param.weight'
       sort_ascending: true
       cta:

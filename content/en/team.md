@@ -15,6 +15,7 @@ sections:
         - Meet the Team
         - Interns
         - Students
+        - Alumni
       sort_by: 'Param.weight'
       sort_ascending: true
       cta:

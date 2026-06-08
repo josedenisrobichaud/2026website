@@ -1,5 +1,5 @@
 schema: hugoblox/author/v1
-slug: a-lalonde
+slug: l-desbuisson
 is_owner: false
 name:
   display: Louise Desbuisson
@@ -16,5 +16,4 @@ affiliations:
   #  url: mailto:nicolas.barbeau-gregoire@umontreal.ca
 
 user_groups:
-  - Stagiaires
-  - Interns
+  - Alumni

@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: H carter
+is_owner: false
+name:
+  display: Havie Carter
+  given: Havie
+  family: Carter
+
+user_groups:
+  - Collaborator

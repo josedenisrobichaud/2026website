@@ -16,7 +16,7 @@ sections:
       
       * **Collaborations depuis 2011**  
       
-      * **Intérêts professionnels** : grands animaux   
+      * **Intérêts professionnels** : Grands animaux   
       
       * **Fait intéressant** : En plus d'être un excellent technicien, Jean-Philippe est aussi un boucher talentueux — 🥩 miam !"
     design:

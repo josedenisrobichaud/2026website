@@ -16,7 +16,7 @@ sections:
       
       * **Stagiaire en 2026**  
       
-      * **Intérêts professionnels** : animaux d'élevage
+      * **Intérêts professionnels** : Animaux d'élevage
       
       * **Animaux de compagnie** : 🐈 Ben et Tequila, 🐇 Rubychou et 🐎 Dakar" 
       

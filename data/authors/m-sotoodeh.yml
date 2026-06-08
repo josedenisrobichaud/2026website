@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: M Sotoodeh
+is_owner: false
+name:
+  display: Many Sotoodeh
+  given: Many
+  family: Sotodeh
+
+user_groups:
+  - Collaborator
