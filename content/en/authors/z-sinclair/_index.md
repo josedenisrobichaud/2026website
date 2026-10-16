@@ -21,7 +21,9 @@ sections:
       * **Pets** : 🐕 Everest, 🐈 Lely, and 🐸 Chouchoune 
       
       * **Fun fact** : Before starting his veterinary medicine studies, Zach taught high school science and English." 
-      
+      button:
+        text: Poster RQR 2026
+        url: /uploads/poster_zs-2026.pdf
     design:
       css_class: light
 
