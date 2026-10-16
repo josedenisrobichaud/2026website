@@ -21,7 +21,9 @@ sections:
       * **Animaux de compagnie** : 🐕 Everest, 🐈 Lely et 🐸 Chouchoune 
       
       * **Fait intéressant** : Avant de commencer son cours en médecine vétérinaire, Zach enseignait au secondaire (sciences et anglais)." 
-      
+      button:
+        text: Poster RQR 2026
+        url: /uploads/poster_zs-2026.pdf
     design:
       css_class: light
 
