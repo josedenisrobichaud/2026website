@@ -13,8 +13,10 @@ sections:
       title: ''
       user_groups:
         - L'équipe
+        - Postdoc
+        - PhD
+        - Maîtrise
         - Stagiaires
-        - Étudiant·es
         - Alumni
       sort_by: 'Param.weight'
       sort_ascending: true

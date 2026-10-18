@@ -1,0 +1,18 @@
+schema: hugoblox/author/v1
+slug: E clavet
+is_owner: false
+name:
+  display: Élodie Clavet
+  given: Élodie
+  family: Clavet
+  
+status:
+  icon: 
+affiliations:
+  - name: FMV, Université de Montréal
+    url: https://fmv.umontreal.ca/fmv/
+
+user_groups:
+  #- Maîtrise
+  #- Master
+  

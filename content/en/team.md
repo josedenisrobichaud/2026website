@@ -13,8 +13,10 @@ sections:
       title: ''
       user_groups:
         - Meet the Team
+        - Postdoc
+        - Master
+        - PhD
         - Interns
-        - Students
         - Alumni
       sort_by: 'Param.weight'
       sort_ascending: true

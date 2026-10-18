@@ -1,5 +1,5 @@
 ---
-title: 🐄 First Data Collection in Dairy Farms of Bas-Saint-Laurent
+title: 🐄 First Data Collection on Bas-Saint-Laurent Dairy Farms
 summary: Since November, we have started collecting samples for a uterine health project.
 date: 2026-01-01
 

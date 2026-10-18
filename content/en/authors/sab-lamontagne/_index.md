@@ -12,7 +12,7 @@ sections:
     content:
       username: sab-lamontagne
       text: "   
-      * **Degree**: Animal Health Technician from the Cégep de La Pocatière  
+      * **Degree**: Animal Health Technician degree from the Cégep de La Pocatière  
       
       * **With the team since 2025**  
       

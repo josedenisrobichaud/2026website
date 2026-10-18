@@ -12,7 +12,7 @@ sections:
     content:
       username: jp-pelletier
       text: "
-      * **Degree**: Animal Health Technician from the Cégep de Saint-Hyacinthe  
+      * **Degree**: Animal Health Technician degree from the Cégep de Saint-Hyacinthe  
       
       * **Collaborations since 2011**  
       

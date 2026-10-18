@@ -2,9 +2,15 @@ schema: hugoblox/author/v1
 slug: Jcs marques
 is_owner: false
 name:
-  display: Jessica Dos Santos Marques
+  display: Jessica Marques
   given: Jessica
-  family: Marques
+  family: Dos Santos Marques
+  
+status:
+  icon: 
+affiliations:
+  - name: FMV, Université de Montréal
+    url: https://fmv.umontreal.ca/fmv/
 
 user_groups:
-  - Collaborator
+  #- Postdoc

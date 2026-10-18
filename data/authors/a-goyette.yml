@@ -1,0 +1,17 @@
+schema: hugoblox/author/v1
+slug: a-goyette
+is_owner: false
+name:
+  display: Audrey Goyette
+  given: Audrey
+  family: Goyette
+  
+status:
+  icon: 
+affiliations:
+  - name: FMV, Université de Montréal
+    url: https://fmv.umontreal.ca/fmv/
+
+user_groups:
+  #- Maîtrise
+  #- Master

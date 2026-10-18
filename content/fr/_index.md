@@ -11,7 +11,7 @@ sections:
   - block: markdown
     content: 
       text: |
-        *Bienvenue sur mon site!*
+        *Bienvenue  !*
     design:
       background:
         image:
