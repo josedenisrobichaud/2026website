@@ -12,7 +12,7 @@ sections:
     content:
       username: a-lalonde
       text: "
-      * **Degree** : Agricultural Engineering student, Institut Agro Montpellier (France)
+      * **Degree** : Agricultural Engineering Master from the Institut Agro Montpellier (France; 2026)
       
       * **Intern in 2026**  
       

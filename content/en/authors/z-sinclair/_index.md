@@ -12,7 +12,8 @@ sections:
     content:
       username: z-sinclair
       text: "
-      * **Degree** : Bachelor’s degree in Pharmacology from the University of Sherbrooke (2025) and veterinary medicine student, Université de Montréal (2030)
+      * **Degrees** : Bachelor’s degree in Pharmacology from the University of Sherbrooke (2025), 
+      and Veterinary Medicine student at the Université de Montréal (2030)
       
       * **Intern in 2026**  
       

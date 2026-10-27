@@ -12,7 +12,7 @@ sections:
     content:
       username: l-desbuisson
       text: "
-      * **Degree** : Veterinary medicine student, École Nationale Vétérinaire de Toulouse (France)
+      * **Degree** : Veterinary Medicine student at the École Nationale Vétérinaire de Toulouse (France)
       
       * **Intern in 2026**  
       

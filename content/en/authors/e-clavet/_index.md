@@ -12,15 +12,16 @@ sections:
     content:
       username: e-clavet
       text: "
-      * **Degree** : Bachelor’s degree in Agronomy from Université Laval (2024)
+      * **Degrees** : Bachelor’s degree in Agronomy - Animal Productions from Université Laval (2024), 
+      and Master student in Veterinary sciences at the Université de Montréal(2028)
       
-      * **Master in veterinary sciences 2026-**  
+      * **Master in Veterinary sciences**  
       
-      * **Professional interests** : tbc
+      * **Professional interests** : Dairy cows (herd management and welfare), research, teaching
       
-      * **Pets** : tbc
+      * **Pets** : 🐈 Booba and Alfred, 🐕 Gollum, and 🐦 Frodo Baggins 
       
-      * **Fun fact** : tbc" 
+      * **Fun fact** : Élo chose to work on dairy farms even though she has severe allergies to cows, horses, cats, and hay!" 
       
     design:
       css_class: light

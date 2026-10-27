@@ -12,7 +12,7 @@ sections:
     content:
       username: a-lalonde
       text: "
-      * **Diplôme** : Étudiante Ingénieure Agronome à l'Institut Agro Montpellier (France) 
+      * **Diplôme** : Ingénieure Agronome de l'Institut Agro Montpellier (France ; 2026) 
       
       * **Stagiaire en 2026**  
       

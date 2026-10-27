@@ -1,5 +1,5 @@
 schema: hugoblox/author/v1
-slug: Jcs marques
+slug: Jcs_marques
 is_owner: false
 name:
   display: Jessica Marques
@@ -12,5 +12,13 @@ affiliations:
   - name: FMV, Université de Montréal
     url: https://fmv.umontreal.ca/fmv/
 
+links:
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/jessica-marques-658503350/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=bPWaAHQAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-9690-2567
+
 user_groups:
-  #- Postdoc
+  - Postdoc

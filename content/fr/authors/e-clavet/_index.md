@@ -12,15 +12,16 @@ sections:
     content:
       username: e-clavet
       text: "
-      * **Diplôme** : Baccalauréat en agronomie de l’Université Laval (2024)
+      * **Diplômes** : Baccalauréat en agronomie - productions animales de l’Université Laval (2024) et
+      étudiante à la maîtrise en sciences vétérinaires à l'Université de Montréal (2028)
       
-      * **Maîtrise en sciences vétérinaires 2026-**  
+      * **Maîtrise en sciences vétérinaires**  
       
-      * **Intérêts professionnels** : tbc
+      * **Intérêts professionnels** : Vaches laitières (gestion de troupeau et bien-être), recherche, enseignement
       
-      * **Animaux de compagnie** : tbc
+      * **Animaux de compagnie** : 🐈 Booba et Alfred, 🐕 Gollum et 🐦 Frodo Baggins 
       
-      * **Fait intéressant** : tbc" 
+      * **Fait intéressant** : Élo a fait le choix de travailler dans les fermes laitières même si elle a de fortes allergies aux vaches, aux chevaux, aux chats et au foin !" 
       
     design:
       css_class: light

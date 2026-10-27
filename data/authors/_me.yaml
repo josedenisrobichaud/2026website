@@ -37,6 +37,8 @@ links:
   - icon: brands/github
     url: https://github.com/josedenisrobichaud
   - icon: academicons/dataverse
+    url: https://borealisdata.ca/dataverse/jose_denis_robichaud
+  - icon: academicons/dataverse
     url: https://dataverse.harvard.edu/dataverse/josedr
 
 interests:

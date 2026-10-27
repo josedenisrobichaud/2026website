@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: E clavet
 is_owner: false
 name:
-  display: Élodie Clavet
+  display: Élodie Clavet, agr.
   given: Élodie
   family: Clavet
   
@@ -13,6 +13,6 @@ affiliations:
     url: https://fmv.umontreal.ca/fmv/
 
 user_groups:
-  #- Maîtrise
-  #- Master
+  - Maîtrise
+  - Master
   

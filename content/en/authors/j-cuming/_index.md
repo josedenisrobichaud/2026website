@@ -12,7 +12,7 @@ sections:
     content:
       username: j-cuming
       text: "
-      * **Degree** : Veterinary medicine student, Université de Montréal (2031)
+      * **Degree** : Veterinary Medicine student at the Université de Montréal (2031)
       
       * **Intern in 2026**  
       
