@@ -7,7 +7,7 @@ date: 2026-11-03
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 
 authors:
-  - _me
+
 
 tags:
   - Knowledge Transfer 
