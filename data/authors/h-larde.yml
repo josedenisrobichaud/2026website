@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: h-larde 
+is_owner: false
+name:
+  display: Hélène Lardé
+  given: Hélène
+  family: Lardé
+
+
+user_groups:
+  - Collaborator

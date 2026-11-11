@@ -22,7 +22,9 @@ sections:
       * **Animaux de compagnie** : 🐈 Booba et Alfred, 🐕 Gollum et 🐦 Frodo Baggins 
       
       * **Fait intéressant** : Élo a fait le choix de travailler dans les fermes laitières même si elle a de fortes allergies aux vaches, aux chevaux, aux chats et au foin !" 
-      
+      button:
+        text: Prix Nouvelle initiative en transfert Op+lait
+        url: /news/oplait2026
     design:
       css_class: light
 
